@@ -45,12 +45,10 @@ export const Header = () => {
             )}
             <li className={style.nav_item}>
               <NavLink to={UrlPaths.FAVORITES} className={style.nav_link}>
-                  <React.Fragment>
-                    <FavoritesIcon />
-                    <span>
-                      Your Favorites
-                    </span>
-                  </React.Fragment>
+                <React.Fragment>
+                  <FavoritesIcon />
+                  <span>Your Favorites</span>
+                </React.Fragment>
               </NavLink>
             </li>
           </ul>

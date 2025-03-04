@@ -1,3 +1,9 @@
 import { Header } from "./components/header";
-
-export const App = () => <Header />;
+import { Footer } from "./components/footer";
+export const App = () => (
+  <div>
+    <Header />
+    <Footer />
+  </div>
+   
+);
