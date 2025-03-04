@@ -5,5 +5,4 @@ export const App = () => (
     <Header />
     <Footer />
   </div>
-   
 );
