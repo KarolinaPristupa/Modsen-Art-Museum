@@ -1,13 +1,12 @@
 .header {
   display: flex;
   place-content: center;
-  padding: 32px;
-
+  padding: 32px 128px;
   background: var(--header-background-color);
   position: relative;
 
   .content_container {
-    max-width: 1280px;
+    max-width: 1920px;
     width: 100%;
     display: flex;
     justify-content: space-between;

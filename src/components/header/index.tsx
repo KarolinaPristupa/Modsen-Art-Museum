@@ -23,7 +23,7 @@ export const Header = () => {
           type="button"
           className={`${style.burger_icon} ${isMenuOpen ? style.burger_open : ""}`}
           onClick={switchMenuState}
-          aria-label="toggle menu"
+          aria-label="switch menu state"
         >
           <span />
           <span />
@@ -45,14 +45,12 @@ export const Header = () => {
             )}
             <li className={style.nav_item}>
               <NavLink to={UrlPaths.FAVORITES} className={style.nav_link}>
-                {({ isActive }) => (
                   <React.Fragment>
                     <FavoritesIcon />
-                    <span className={isActive ? style.active : ""}>
+                    <span>
                       Your Favorites
                     </span>
                   </React.Fragment>
-                )}
               </NavLink>
             </li>
           </ul>
