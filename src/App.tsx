@@ -1,6 +1,3 @@
-import { Header } from './components/header';
+import { Header } from "./components/header";
 
-export const App = () => (
-  <Header />
-);
-
+export const App = () => <Header />;
