@@ -1,5 +1,5 @@
-import FavoriteIcon from "@assets/bookmark.svg";
-
+import Bookmark from "@assets/bookmark.svg";
+import BookmarkFilled from "@assets/bookmark_filled.svg";
 import style from "./style.module.scss";
 
 type FavoriteButtonProps = {
@@ -24,7 +24,7 @@ export const FavoriteButton = ({
       className={[style.favorite_button, className].join(" ")}
       aria-label={arialText}
     >
-      <FavoriteIcon />
+      {isFavorite ? <BookmarkFilled /> : <Bookmark />}
     </button>
   );
 };
