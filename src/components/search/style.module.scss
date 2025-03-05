@@ -1,0 +1,41 @@
+.search_block {
+  max-width: 762px;
+  width: 100%;
+  display: flex;
+  place-items: center;
+
+  .search_form {
+    position: relative;
+    width: 100%;
+    display: flex;
+
+    .search {
+      width: 100%;
+      height: 64px;
+      padding: 16px;
+
+      font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+
+      border: none;
+      border-radius: 16px;
+
+      background-color: #3939390d;
+      color: var(--primary-text-color);
+
+      &::placeholder {
+        color: #39393980;
+      }
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    .search_icon {
+      position: absolute;
+      right: 16px;
+      top: 16px;
+    }
+  }
+}

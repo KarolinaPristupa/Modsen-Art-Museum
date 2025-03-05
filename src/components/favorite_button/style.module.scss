@@ -1,0 +1,32 @@
+.favorite_button {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  place-content: center;
+
+  padding: 18px;
+  border: none;
+  border-radius: 50%;
+
+  background-color: var(--button-color);
+  transition: background-color 0.1s ease-in-out;
+
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--button-active-color);
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    background-color: var(--button-disabled-color);
+  }
+
+  &.active_button {
+    background-color: var(--button-active-color);
+  }
+
+  &:active {
+    background-color: var(--button-pressed-color);
+  }
+}
