@@ -30,7 +30,7 @@ export const PictureCard = ({
   const imageWithCacheBust = image ? `${image}?rand=${Date.now()}` : "";
 
   const handleImageError = () => {
-    setIsLoaded(false); 
+    setIsLoaded(false);
   };
 
   const handleFavoriteClick = () => {

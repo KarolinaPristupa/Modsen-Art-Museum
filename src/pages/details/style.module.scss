@@ -1,133 +1,133 @@
 .container {
-    width: 100%;
-    display: flex;
-    justify-content: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 
-    padding: 120px 32px;
+  padding: 120px 32px;
+
+  @media screen and (max-width: 768px) {
+    padding: 64px 32px;
+  }
+
+  .content {
+    width: 100%;
+    max-width: 1280px;
+    display: grid;
+    grid-template-columns: 1fr minmax(0, 50%);
+
+    column-gap: 80px;
+    row-gap: 32px;
+
+    @media screen and (max-width: 1080px) {
+      column-gap: 32px;
+    }
 
     @media screen and (max-width: 768px) {
-        padding: 64px 32px;
+      grid-template-columns: 1fr;
     }
 
-    .content {
+    .image_container {
+      grid-column: 1;
+      grid-row: 1 / 3;
+
+      position: relative;
+
+      @media screen and (max-width: 768px) {
+        grid-row: auto;
+        grid-column: auto;
+      }
+
+      .image {
         width: 100%;
-        max-width: 1280px;
-        display: grid;
-        grid-template-columns: 1fr minmax(0, 50%);
+        height: auto;
+        max-height: 720px;
 
-        column-gap: 80px;
-        row-gap: 32px;
+        object-fit: contain;
+        object-position: top right;
+      }
 
-        @media screen and (max-width: 1080px) {
-            column-gap: 32px;
-        }
-
-        @media screen and (max-width: 768px) {
-            grid-template-columns: 1fr;
-        }
-
-        .image_container {
-            grid-column: 1;
-            grid-row: 1 / 3;
-
-            position: relative;
-
-            @media screen and (max-width: 768px) {
-                grid-row: auto;
-                grid-column: auto;
-            }
-
-            .image {
-                width: 100%;
-                height: auto;
-                max-height: 720px;
-
-                object-fit: contain;
-                object-position: top right;
-            }
-
-            .button {
-                position: absolute;
-                top: 16px;
-                right: 16px;
-            }
-        }
-
-        .info {
-            grid-column: 2;
-            grid-row: 1;
-
-            display: flex;
-            flex-direction: column;
-            gap: 32px;
-
-            @media screen and (max-width: 768px) {
-                grid-row: auto;
-                grid-column: auto;
-            }
-
-            .title {
-                font-family: 'Lexend Deca', sans-serif;
-                font-size: 32px;
-                line-height: 40px;
-                font-weight: 400;
-            }
-
-            .artist_info {
-                display: flex;
-                flex-direction: column;
-                gap: 16px;
-
-                .subtitle {
-                    font-family: 'Lexend Deca', sans-serif;
-                    font-size: 24px;
-                    line-height: 30px;
-                    font-weight: 400;
-                    color: var(--secondary-accent-color);
-                }
-
-                .year {
-                    font-family: 'Lexend Deca', sans-serif;
-                    font-weight: 700;
-                }
-            }
-        }
-
-        .overview {
-            grid-column: 2;
-            grid-row: 2;
-
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-end;
-            gap: 32px;
-
-            @media screen and (max-width: 768px) {
-                grid-row: auto;
-                grid-column: auto;
-            }
-
-            .title {
-                font-family: 'Lexend Deca', sans-serif;
-                font-size: 32px;
-                line-height: 40px;
-                font-weight: 400;
-            }
-
-            .overview_info {
-                display: flex;
-                flex-direction: column;
-                gap: 16px;
-
-                .overview_item {
-                    font-family: 'Lexend Deca', sans-serif;
-
-                    .label {
-                        color: var(--secondary-accent-color);
-                        margin-right: 4px;
-                    }
-                }
-            }
-        }
+      .button {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+      }
     }
+
+    .info {
+      grid-column: 2;
+      grid-row: 1;
+
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+
+      @media screen and (max-width: 768px) {
+        grid-row: auto;
+        grid-column: auto;
+      }
+
+      .title {
+        font-family: "Lexend Deca", sans-serif;
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 400;
+      }
+
+      .artist_info {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+
+        .subtitle {
+          font-family: "Lexend Deca", sans-serif;
+          font-size: 24px;
+          line-height: 30px;
+          font-weight: 400;
+          color: var(--secondary-accent-color);
+        }
+
+        .year {
+          font-family: "Lexend Deca", sans-serif;
+          font-weight: 700;
+        }
+      }
+    }
+
+    .overview {
+      grid-column: 2;
+      grid-row: 2;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 32px;
+
+      @media screen and (max-width: 768px) {
+        grid-row: auto;
+        grid-column: auto;
+      }
+
+      .title {
+        font-family: "Lexend Deca", sans-serif;
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 400;
+      }
+
+      .overview_info {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+
+        .overview_item {
+          font-family: "Lexend Deca", sans-serif;
+
+          .label {
+            color: var(--secondary-accent-color);
+            margin-right: 4px;
+          }
+        }
+      }
+    }
+  }
 }
