@@ -3,6 +3,7 @@ import defaultImage from "@assets/logos/logo.svg?url";
 import { FavoriteButton } from "@components/favorite_button";
 import { ApiEndpoints } from "@constants/api";
 import { DetailData } from "@myTypes/detail_data";
+import { Loader } from "@components/loader";
 import { useFavorites } from "@hooks/use_favorite";
 import { useFetch } from "@hooks/use_fetch";
 import { createFieldsString, getImageUrl } from "@utils/api_utils";
@@ -11,7 +12,10 @@ import style from "./style.module.scss";
 
 export const Details = () => {
   const { id = "" } = useParams();
-  const { data: picture } = useFetch<DetailData>({
+  const { 
+    data: picture,
+    isLoading,
+  } = useFetch<DetailData>({
     endpoint: `${ApiEndpoints.ARTWORKS}/${id}`,
     fields: createFieldsString<DetailData>([
       "id",
@@ -38,7 +42,7 @@ export const Details = () => {
   };
 
   if (!picture) {
-    return <div>Loading...</div>; // Или отобразите загрузочный спиннер
+    return <Loader isLoading={isLoading} size={120}/> 
   }
 
   const imageUrl = picture?.image_id

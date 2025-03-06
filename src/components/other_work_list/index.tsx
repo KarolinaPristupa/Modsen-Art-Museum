@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Loader } from "@components/loader";
 import { PictureCard } from "@components/picture";
 import { ApiEndpoints } from "@constants/api";
 import { PictureData } from "@myTypes/picture_data";
@@ -10,7 +11,7 @@ import style from "./style.module.scss";
 export const OtherWorkList = () => {
   const [refreshKey, setRefreshKey] = useState(Date.now());
 
-  const { data: pictures } = useRandom<PictureData[]>({
+  const { data: pictures, isLoading } = useRandom<PictureData[]>({
     endpoint: ApiEndpoints.ARTWORKS,
     fields: createFieldsString<PictureData>([
       "id",
@@ -26,6 +27,10 @@ export const OtherWorkList = () => {
   useEffect(() => {
     setRefreshKey(Date.now());
   }, []);
+
+  if (isLoading) {
+    return <Loader isLoading={isLoading} size={120}/> 
+  }
 
   return (
     <div className={style.container}>

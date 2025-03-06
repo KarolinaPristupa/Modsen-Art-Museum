@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Pagination } from "@components/pagination";
 import { PictureCard } from "@components/picture";
+import { Loader } from "@components/loader";
 import { Selector } from "@components/selector";
 import { ApiEndpoints } from "@constants/api";
 import { SORT_OPTIONS } from "@constants/sort_options";
@@ -22,7 +23,7 @@ export const SpecialGallery = ({ searchQuery }: SpecialGalleryProps) => {
     SORT_OPTIONS.DEFAULT,
   );
 
-  const { data: pictures } = useFetch<PictureData[]>({
+  const { data: pictures, isLoading } = useFetch<PictureData[]>({
     endpoint: searchQuery
       ? `${ApiEndpoints.ARTWORKS}/search`
       : ApiEndpoints.ARTWORKS,
@@ -70,17 +71,9 @@ export const SpecialGallery = ({ searchQuery }: SpecialGalleryProps) => {
     [sortedPictures, currentPage, picturePerPage],
   );
 
-  // if (isLoading) {
-  //     return <Loader isLoading={isLoading} />;
-  // }
-
-  // if (error) {
-  //     return <GeneralError message='An error occurred. Please try again.' />;
-  // }
-
-  // if (!sortedPictures.length) {
-  //     return <GeneralError message='No data available.' />;
-  // }
+  if (isLoading) {
+    return <Loader isLoading={isLoading}/> 
+  }
 
   return (
     <div className={style.container}>
