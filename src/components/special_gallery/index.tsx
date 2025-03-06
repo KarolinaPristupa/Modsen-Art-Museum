@@ -72,7 +72,7 @@ export const SpecialGallery = ({ searchQuery }: SpecialGalleryProps) => {
   );
 
   if (isLoading) {
-    return <Loader isLoading={isLoading}/> 
+    return <Loader isLoading={isLoading} />;
   }
 
   return (

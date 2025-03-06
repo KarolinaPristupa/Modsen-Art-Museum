@@ -29,7 +29,7 @@ export const OtherWorkList = () => {
   }, []);
 
   if (isLoading) {
-    return <Loader isLoading={isLoading} size={120}/> 
+    return <Loader isLoading={isLoading} size={120} />;
   }
 
   return (

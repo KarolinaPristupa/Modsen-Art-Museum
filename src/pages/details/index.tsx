@@ -12,10 +12,7 @@ import style from "./style.module.scss";
 
 export const Details = () => {
   const { id = "" } = useParams();
-  const { 
-    data: picture,
-    isLoading,
-  } = useFetch<DetailData>({
+  const { data: picture, isLoading } = useFetch<DetailData>({
     endpoint: `${ApiEndpoints.ARTWORKS}/${id}`,
     fields: createFieldsString<DetailData>([
       "id",
@@ -42,7 +39,7 @@ export const Details = () => {
   };
 
   if (!picture) {
-    return <Loader isLoading={isLoading} size={120}/> 
+    return <Loader isLoading={isLoading} size={120} />;
   }
 
   const imageUrl = picture?.image_id

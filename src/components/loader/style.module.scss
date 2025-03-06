@@ -1,52 +1,58 @@
 .container {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 150px;
-    margin-bottom: 150px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
 
-    .loading_container {
-        position: relative;
+  .loading_container {
+    position: relative;
 
-        .loading_progress {
-            position: absolute;
-            height: 100%;
-            width: 100%;
-            border-radius: 50%;
-            border: 5px solid transparent; 
-            animation: colorShift 3s infinite ease-in-out, spin 2s linear infinite;
-            background: linear-gradient(45deg, var(--primary-accent-color), var(--secondary-accent-color));
+    .loading_progress {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+      border: 5px solid transparent;
+      animation:
+        colorShift 3s infinite ease-in-out,
+        spin 2s linear infinite;
+      background: linear-gradient(
+        45deg,
+        var(--primary-accent-color),
+        var(--secondary-accent-color)
+      );
 
-            &::before {
-                content: '';
-                position: absolute;
-                height: 100%;
-                width: 100%;
-                border-radius: 50%;
-                border: 10px solid transparent;
-                background: var(--primary-background-color);
-                top: -5px;
-                left: -5px;
-            }
-        }
-
-        @keyframes colorShift {
-            0% {
-                filter: hue-rotate(0deg);
-            }
-            100% {
-                filter: hue-rotate(360deg);
-            }
-        }
-
-        @keyframes spin {
-            0% {
-                transform: rotate(0deg);
-            }
-            100% {
-                transform: rotate(360deg);
-            }
-        }
+      &::before {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+        border: 10px solid transparent;
+        background: var(--primary-background-color);
+        top: -5px;
+        left: -5px;
+      }
     }
+
+    @keyframes colorShift {
+      0% {
+        filter: hue-rotate(0deg);
+      }
+      100% {
+        filter: hue-rotate(360deg);
+      }
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  }
 }
