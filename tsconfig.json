@@ -10,7 +10,14 @@
     "paths": {
       "@*": ["src/*"],
       "@assets/*": ["./src/assets/*"],
-      "@components/*": ["./src/components/*"]
+      "@components/*": ["./src/components/*"],
+      "@context/*": ["./src/context/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@myTypes/*": ["./src/myTypes/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@App/*": ["./src/App.tsx"]
     }
   }
 }

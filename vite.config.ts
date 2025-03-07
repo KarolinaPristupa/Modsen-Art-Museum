@@ -19,11 +19,14 @@ export default defineConfig({
   resolve: {
     alias: {
       "@components": path.resolve(__dirname, "src/components"),
+      "@App": path.resolve(__dirname, "src/App.tsx"),
       "@assets": path.resolve(__dirname, "src/assets"),
       "@constants": path.resolve(__dirname, "src/constants"),
       "@utils": path.resolve(__dirname, "src/utils"),
-      "@myTypes": path.resolve(__dirname, "src/MyTypes"),
+      "@myTypes": path.resolve(__dirname, "src/myTypes"),
       "@hooks": path.resolve(__dirname, "src/hooks"),
+      "@context": path.resolve(__dirname, "src/context"),
+      "@pages": path.resolve(__dirname, "src/pages"),
     },
   },
 });
