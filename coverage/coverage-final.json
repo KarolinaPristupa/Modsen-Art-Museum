@@ -1,29 +1,4239 @@
-{"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\App.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\App.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":49}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":44}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":45}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":45}},"4":{"start":{"line":5,"column":0},"end":{"line":5,"column":36}},"5":{"start":{"line":6,"column":0},"end":{"line":6,"column":42}},"6":{"start":{"line":7,"column":0},"end":{"line":7,"column":46}},"7":{"start":{"line":8,"column":0},"end":{"line":8,"column":64}},"8":{"start":{"line":10,"column":19},"end":{"line":21,"column":null}},"9":{"start":{"line":11,"column":2},"end":{"line":20,"column":null}},"10":{"start":{"line":10,"column":13},"end":{"line":10,"column":19}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":10,"column":19},"end":{"line":10,"column":22}},"loc":{"start":{"line":11,"column":2},"end":{"line":20,"column":null}}}},"branchMap":{},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0},"f":{"0":0},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\main.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\main.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":35}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":46}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":21}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":49}},"4":{"start":{"line":5,"column":0},"end":{"line":5,"column":28}},"5":{"start":{"line":7,"column":0},"end":{"line":13,"column":2}}},"fnMap":{},"branchMap":{},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0},"f":{},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_button\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_button\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":44}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":57}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":40}},"3":{"start":{"line":11,"column":30},"end":{"line":30,"column":1}},"4":{"start":{"line":16,"column":20},"end":{"line":16,"column":77}},"5":{"start":{"line":17,"column":20},"end":{"line":17,"column":57}},"6":{"start":{"line":19,"column":2},"end":{"line":29,"column":4}},"7":{"start":{"line":11,"column":13},"end":{"line":11,"column":30}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":11,"column":30},"end":{"line":11,"column":31}},"loc":{"start":{"line":15,"column":26},"end":{"line":30,"column":1}}}},"branchMap":{"0":{"loc":{"start":{"line":14,"column":2},"end":{"line":14,"column":20}},"type":"default-arg","locations":[{"start":{"line":14,"column":15},"end":{"line":14,"column":20}}]},"1":{"loc":{"start":{"line":16,"column":20},"end":{"line":16,"column":77}},"type":"cond-expr","locations":[{"start":{"line":16,"column":33},"end":{"line":16,"column":56}},{"start":{"line":16,"column":59},"end":{"line":16,"column":77}}]},"2":{"loc":{"start":{"line":17,"column":20},"end":{"line":17,"column":57}},"type":"cond-expr","locations":[{"start":{"line":17,"column":33},"end":{"line":17,"column":52}},{"start":{"line":17,"column":55},"end":{"line":17,"column":57}}]},"3":{"loc":{"start":{"line":27,"column":7},"end":{"line":27,"column":53}},"type":"cond-expr","locations":[{"start":{"line":27,"column":20},"end":{"line":27,"column":38}},{"start":{"line":27,"column":41},"end":{"line":27,"column":53}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":7,"5":7,"6":7,"7":1},"f":{"0":7},"b":{"0":[5],"1":[1,6],"2":[1,6],"3":[1,6]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_list\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_list\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":50}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":46}},"2":{"start":{"line":4,"column":0},"end":{"line":4,"column":44}},"3":{"start":{"line":5,"column":0},"end":{"line":5,"column":47}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":44}},"5":{"start":{"line":8,"column":0},"end":{"line":8,"column":40}},"6":{"start":{"line":14,"column":28},"end":{"line":40,"column":1}},"7":{"start":{"line":15,"column":40},"end":{"line":18,"column":4}},"8":{"start":{"line":20,"column":2},"end":{"line":22,"column":3}},"9":{"start":{"line":21,"column":4},"end":{"line":21,"column":55}},"10":{"start":{"line":24,"column":2},"end":{"line":39,"column":4}},"11":{"start":{"line":28,"column":10},"end":{"line":29,"column":null}},"12":{"start":{"line":14,"column":13},"end":{"line":14,"column":28}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":14,"column":28},"end":{"line":14,"column":29}},"loc":{"start":{"line":14,"column":65},"end":{"line":40,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":27,"column":21},"end":{"line":27,"column":22}},"loc":{"start":{"line":28,"column":10},"end":{"line":29,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":20,"column":2},"end":{"line":22,"column":3}},"type":"if","locations":[{"start":{"line":20,"column":2},"end":{"line":22,"column":3}}]},"1":{"loc":{"start":{"line":26,"column":7},"end":{"line":37,"column":10}},"type":"binary-expr","locations":[{"start":{"line":26,"column":7},"end":{"line":26,"column":15}},{"start":{"line":27,"column":8},"end":{"line":37,"column":10}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0},"f":{"0":0,"1":0},"b":{"0":[0],"1":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\footer\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\footer\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":55}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":40}},"2":{"start":{"line":4,"column":0},"end":{"line":4,"column":40}},"3":{"start":{"line":6,"column":22},"end":{"line":14,"column":null}},"4":{"start":{"line":7,"column":2},"end":{"line":13,"column":null}},"5":{"start":{"line":6,"column":13},"end":{"line":6,"column":22}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":6,"column":22},"end":{"line":6,"column":25}},"loc":{"start":{"line":7,"column":2},"end":{"line":13,"column":null}}}},"branchMap":{},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0},"f":{"0":0},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\header\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\header\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":26}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":56}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":40}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":49}},"4":{"start":{"line":5,"column":0},"end":{"line":5,"column":40}},"5":{"start":{"line":6,"column":0},"end":{"line":6,"column":44}},"6":{"start":{"line":8,"column":0},"end":{"line":8,"column":40}},"7":{"start":{"line":10,"column":22},"end":{"line":59,"column":1}},"8":{"start":{"line":11,"column":17},"end":{"line":11,"column":57}},"9":{"start":{"line":12,"column":38},"end":{"line":12,"column":59}},"10":{"start":{"line":14,"column":26},"end":{"line":14,"column":58}},"11":{"start":{"line":14,"column":32},"end":{"line":14,"column":58}},"12":{"start":{"line":16,"column":2},"end":{"line":58,"column":4}},"13":{"start":{"line":38,"column":20},"end":{"line":40,"column":null}},"14":{"start":{"line":10,"column":13},"end":{"line":10,"column":22}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":10,"column":22},"end":{"line":10,"column":25}},"loc":{"start":{"line":10,"column":27},"end":{"line":59,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":14,"column":26},"end":{"line":14,"column":29}},"loc":{"start":{"line":14,"column":32},"end":{"line":14,"column":58}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":37,"column":19},"end":{"line":37,"column":20}},"loc":{"start":{"line":38,"column":20},"end":{"line":40,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":24,"column":45},"end":{"line":24,"column":80}},"type":"cond-expr","locations":[{"start":{"line":24,"column":58},"end":{"line":24,"column":75}},{"start":{"line":24,"column":78},"end":{"line":24,"column":80}}]},"1":{"loc":{"start":{"line":32,"column":40},"end":{"line":32,"column":72}},"type":"cond-expr","locations":[{"start":{"line":32,"column":53},"end":{"line":32,"column":67}},{"start":{"line":32,"column":70},"end":{"line":32,"column":72}}]},"2":{"loc":{"start":{"line":34,"column":13},"end":{"line":44,"column":null}},"type":"binary-expr","locations":[{"start":{"line":34,"column":13},"end":{"line":34,"column":20}},{"start":{"line":35,"column":14},"end":{"line":43,"column":null}}]},"3":{"loc":{"start":{"line":40,"column":39},"end":{"line":40,"column":67}},"type":"cond-expr","locations":[{"start":{"line":40,"column":50},"end":{"line":40,"column":62}},{"start":{"line":40,"column":65},"end":{"line":40,"column":67}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":5,"9":5,"10":5,"11":2,"12":5,"13":0,"14":1},"f":{"0":5,"1":2,"2":0},"b":{"0":[1,4],"1":[1,4],"2":[5,0],"3":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\loader\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\loader\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":40}},"1":{"start":{"line":8,"column":22},"end":{"line":22,"column":1}},"2":{"start":{"line":9,"column":2},"end":{"line":9,"column":30}},"3":{"start":{"line":9,"column":18},"end":{"line":9,"column":30}},"4":{"start":{"line":11,"column":2},"end":{"line":21,"column":4}},"5":{"start":{"line":8,"column":13},"end":{"line":8,"column":22}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":8,"column":22},"end":{"line":8,"column":23}},"loc":{"start":{"line":8,"column":64},"end":{"line":22,"column":1}}}},"branchMap":{"0":{"loc":{"start":{"line":8,"column":36},"end":{"line":8,"column":45}},"type":"default-arg","locations":[{"start":{"line":8,"column":43},"end":{"line":8,"column":45}}]},"1":{"loc":{"start":{"line":9,"column":2},"end":{"line":9,"column":30}},"type":"if","locations":[{"start":{"line":9,"column":2},"end":{"line":9,"column":30}}]}},"s":{"0":1,"1":1,"2":4,"3":1,"4":3,"5":1},"f":{"0":4},"b":{"0":[1],"1":[1]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\logo\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\logo\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":40}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":59}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":59}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":44}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":40}},"5":{"start":{"line":12,"column":20},"end":{"line":20,"column":null}},"6":{"start":{"line":13,"column":2},"end":{"line":19,"column":null}},"7":{"start":{"line":12,"column":13},"end":{"line":12,"column":20}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":12,"column":20},"end":{"line":12,"column":21}},"loc":{"start":{"line":13,"column":2},"end":{"line":19,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":16,"column":13},"end":{"line":16,"column":49}},"type":"cond-expr","locations":[{"start":{"line":16,"column":26},"end":{"line":16,"column":36}},{"start":{"line":16,"column":39},"end":{"line":16,"column":49}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":5,"7":1},"f":{"0":5},"b":{"0":[0,5]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\other_work_list\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\other_work_list\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":44}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":44}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":50}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":46}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":46}},"5":{"start":{"line":7,"column":0},"end":{"line":7,"column":67}},"6":{"start":{"line":9,"column":0},"end":{"line":9,"column":40}},"7":{"start":{"line":11,"column":29},"end":{"line":50,"column":1}},"8":{"start":{"line":12,"column":38},"end":{"line":12,"column":58}},"9":{"start":{"line":14,"column":40},"end":{"line":25,"column":4}},"10":{"start":{"line":27,"column":2},"end":{"line":29,"column":9}},"11":{"start":{"line":28,"column":4},"end":{"line":28,"column":30}},"12":{"start":{"line":31,"column":2},"end":{"line":33,"column":3}},"13":{"start":{"line":32,"column":4},"end":{"line":32,"column":55}},"14":{"start":{"line":35,"column":2},"end":{"line":49,"column":4}},"15":{"start":{"line":38,"column":8},"end":{"line":39,"column":null}},"16":{"start":{"line":11,"column":13},"end":{"line":11,"column":29}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":11,"column":29},"end":{"line":11,"column":32}},"loc":{"start":{"line":11,"column":34},"end":{"line":50,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":27,"column":12},"end":{"line":27,"column":15}},"loc":{"start":{"line":27,"column":17},"end":{"line":29,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":37,"column":28},"end":{"line":37,"column":29}},"loc":{"start":{"line":38,"column":8},"end":{"line":39,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":31,"column":2},"end":{"line":33,"column":3}},"type":"if","locations":[{"start":{"line":31,"column":2},"end":{"line":33,"column":3}}]},"1":{"loc":{"start":{"line":37,"column":8},"end":{"line":37,"column":22}},"type":"binary-expr","locations":[{"start":{"line":37,"column":8},"end":{"line":37,"column":16}},{"start":{"line":37,"column":20},"end":{"line":37,"column":22}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0},"f":{"0":0,"1":0,"2":0},"b":{"0":[0],"1":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\pagination\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\pagination\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":49}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":47}},"2":{"start":{"line":4,"column":0},"end":{"line":4,"column":40}},"3":{"start":{"line":12,"column":26},"end":{"line":70,"column":1}},"4":{"start":{"line":17,"column":27},"end":{"line":19,"column":3}},"5":{"start":{"line":18,"column":4},"end":{"line":18,"column":23}},"6":{"start":{"line":21,"column":25},"end":{"line":25,"column":3}},"7":{"start":{"line":22,"column":4},"end":{"line":24,"column":5}},"8":{"start":{"line":23,"column":6},"end":{"line":23,"column":36}},"9":{"start":{"line":27,"column":25},"end":{"line":31,"column":3}},"10":{"start":{"line":28,"column":4},"end":{"line":30,"column":5}},"11":{"start":{"line":29,"column":6},"end":{"line":29,"column":36}},"12":{"start":{"line":33,"column":2},"end":{"line":69,"column":4}},"13":{"start":{"line":47,"column":8},"end":{"line":48,"column":null}},"14":{"start":{"line":50,"column":25},"end":{"line":50,"column":52}},"15":{"start":{"line":12,"column":13},"end":{"line":12,"column":26}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":12,"column":26},"end":{"line":12,"column":27}},"loc":{"start":{"line":16,"column":22},"end":{"line":70,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":17,"column":27},"end":{"line":17,"column":28}},"loc":{"start":{"line":17,"column":44},"end":{"line":19,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":21,"column":25},"end":{"line":21,"column":28}},"loc":{"start":{"line":21,"column":30},"end":{"line":25,"column":3}}},"3":{"name":"(anonymous_4)","decl":{"start":{"line":27,"column":25},"end":{"line":27,"column":28}},"loc":{"start":{"line":27,"column":30},"end":{"line":31,"column":3}}},"4":{"name":"(anonymous_5)","decl":{"start":{"line":46,"column":34},"end":{"line":46,"column":35}},"loc":{"start":{"line":47,"column":8},"end":{"line":48,"column":null}}},"5":{"name":"(anonymous_6)","decl":{"start":{"line":50,"column":19},"end":{"line":50,"column":22}},"loc":{"start":{"line":50,"column":25},"end":{"line":50,"column":52}}}},"branchMap":{"0":{"loc":{"start":{"line":22,"column":4},"end":{"line":24,"column":5}},"type":"if","locations":[{"start":{"line":22,"column":4},"end":{"line":24,"column":5}}]},"1":{"loc":{"start":{"line":28,"column":4},"end":{"line":30,"column":5}},"type":"if","locations":[{"start":{"line":28,"column":4},"end":{"line":30,"column":5}}]},"2":{"loc":{"start":{"line":35,"column":7},"end":{"line":43,"column":null}},"type":"binary-expr","locations":[{"start":{"line":35,"column":7},"end":{"line":35,"column":22}},{"start":{"line":36,"column":8},"end":{"line":42,"column":null}}]},"3":{"loc":{"start":{"line":58,"column":7},"end":{"line":66,"column":null}},"type":"binary-expr","locations":[{"start":{"line":58,"column":7},"end":{"line":58,"column":31}},{"start":{"line":59,"column":8},"end":{"line":65,"column":null}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":7,"5":1,"6":7,"7":1,"8":1,"9":7,"10":1,"11":1,"12":7,"13":35,"14":1,"15":1},"f":{"0":7,"1":1,"2":1,"3":1,"4":35,"5":1},"b":{"0":[1],"1":[1],"2":[7,6],"3":[7,6]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\picture\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\picture\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":33}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":54}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":50}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":61}},"4":{"start":{"line":5,"column":0},"end":{"line":5,"column":44}},"5":{"start":{"line":6,"column":0},"end":{"line":6,"column":51}},"6":{"start":{"line":7,"column":0},"end":{"line":7,"column":40}},"7":{"start":{"line":18,"column":27},"end":{"line":96,"column":1}},"8":{"start":{"line":26,"column":54},"end":{"line":26,"column":68}},"9":{"start":{"line":27,"column":34},"end":{"line":27,"column":49}},"10":{"start":{"line":29,"column":15},"end":{"line":29,"column":69}},"11":{"start":{"line":30,"column":29},"end":{"line":30,"column":71}},"12":{"start":{"line":32,"column":27},"end":{"line":34,"column":3}},"13":{"start":{"line":33,"column":4},"end":{"line":33,"column":23}},"14":{"start":{"line":36,"column":30},"end":{"line":38,"column":3}},"15":{"start":{"line":37,"column":4},"end":{"line":37,"column":65}},"16":{"start":{"line":40,"column":2},"end":{"line":95,"column":4}},"17":{"start":{"line":50,"column":30},"end":{"line":50,"column":47}},"18":{"start":{"line":69,"column":32},"end":{"line":69,"column":49}},"19":{"start":{"line":18,"column":13},"end":{"line":18,"column":27}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":18,"column":27},"end":{"line":18,"column":28}},"loc":{"start":{"line":25,"column":23},"end":{"line":96,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":32,"column":27},"end":{"line":32,"column":30}},"loc":{"start":{"line":32,"column":32},"end":{"line":34,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":36,"column":30},"end":{"line":36,"column":33}},"loc":{"start":{"line":36,"column":35},"end":{"line":38,"column":3}}},"3":{"name":"(anonymous_4)","decl":{"start":{"line":50,"column":24},"end":{"line":50,"column":27}},"loc":{"start":{"line":50,"column":30},"end":{"line":50,"column":47}}},"4":{"name":"(anonymous_5)","decl":{"start":{"line":69,"column":26},"end":{"line":69,"column":29}},"loc":{"start":{"line":69,"column":32},"end":{"line":69,"column":49}}}},"branchMap":{"0":{"loc":{"start":{"line":24,"column":2},"end":{"line":24,"column":17}},"type":"default-arg","locations":[{"start":{"line":24,"column":12},"end":{"line":24,"column":17}}]},"1":{"loc":{"start":{"line":30,"column":29},"end":{"line":30,"column":71}},"type":"cond-expr","locations":[{"start":{"line":30,"column":37},"end":{"line":30,"column":66}},{"start":{"line":30,"column":69},"end":{"line":30,"column":71}}]},"2":{"loc":{"start":{"line":37,"column":11},"end":{"line":37,"column":64}},"type":"cond-expr","locations":[{"start":{"line":37,"column":28},"end":{"line":37,"column":46}},{"start":{"line":37,"column":49},"end":{"line":37,"column":64}}]},"3":{"loc":{"start":{"line":41,"column":20},"end":{"line":41,"column":77}},"type":"cond-expr","locations":[{"start":{"line":41,"column":42},"end":{"line":41,"column":58}},{"start":{"line":41,"column":61},"end":{"line":41,"column":77}}]},"4":{"loc":{"start":{"line":42,"column":7},"end":{"line":57,"column":null}},"type":"binary-expr","locations":[{"start":{"line":42,"column":7},"end":{"line":42,"column":26}},{"start":{"line":43,"column":8},"end":{"line":56,"column":null}}]},"5":{"loc":{"start":{"line":45,"column":13},"end":{"line":53,"column":null}},"type":"binary-expr","locations":[{"start":{"line":45,"column":13},"end":{"line":45,"column":31}},{"start":{"line":46,"column":14},"end":{"line":52,"column":null}}]},"6":{"loc":{"start":{"line":52,"column":34},"end":{"line":52,"column":61}},"type":"cond-expr","locations":[{"start":{"line":52,"column":45},"end":{"line":52,"column":52}},{"start":{"line":52,"column":55},"end":{"line":52,"column":61}}]},"7":{"loc":{"start":{"line":55,"column":13},"end":{"line":55,"column":42}},"type":"binary-expr","locations":[{"start":{"line":55,"column":13},"end":{"line":55,"column":22}},{"start":{"line":55,"column":26},"end":{"line":55,"column":42}}]},"8":{"loc":{"start":{"line":61,"column":9},"end":{"line":76,"column":null}},"type":"binary-expr","locations":[{"start":{"line":61,"column":9},"end":{"line":61,"column":28}},{"start":{"line":62,"column":10},"end":{"line":75,"column":null}}]},"9":{"loc":{"start":{"line":64,"column":15},"end":{"line":72,"column":null}},"type":"binary-expr","locations":[{"start":{"line":64,"column":15},"end":{"line":64,"column":33}},{"start":{"line":65,"column":16},"end":{"line":71,"column":null}}]},"10":{"loc":{"start":{"line":71,"column":36},"end":{"line":71,"column":63}},"type":"cond-expr","locations":[{"start":{"line":71,"column":47},"end":{"line":71,"column":54}},{"start":{"line":71,"column":57},"end":{"line":71,"column":63}}]},"11":{"loc":{"start":{"line":74,"column":15},"end":{"line":74,"column":44}},"type":"binary-expr","locations":[{"start":{"line":74,"column":15},"end":{"line":74,"column":24}},{"start":{"line":74,"column":28},"end":{"line":74,"column":44}}]},"12":{"loc":{"start":{"line":83,"column":13},"end":{"line":83,"column":70}},"type":"binary-expr","locations":[{"start":{"line":83,"column":13},"end":{"line":83,"column":19}},{"start":{"line":83,"column":23},"end":{"line":83,"column":70}}]},"13":{"loc":{"start":{"line":85,"column":44},"end":{"line":85,"column":75}},"type":"cond-expr","locations":[{"start":{"line":85,"column":55},"end":{"line":85,"column":63}},{"start":{"line":85,"column":66},"end":{"line":85,"column":75}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":7,"9":7,"10":7,"11":7,"12":7,"13":1,"14":7,"15":2,"16":7,"17":0,"18":0,"19":1},"f":{"0":7,"1":1,"2":2,"3":0,"4":0},"b":{"0":[0],"1":[7,0],"2":[1,1],"3":[0,7],"4":[7,7],"5":[7,7],"6":[0,7],"7":[7,7],"8":[7,0],"9":[0,0],"10":[0,0],"11":[0,0],"12":[7,7],"13":[6,1]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\search\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\search\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":47}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":54}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":44}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":50}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":41}},"5":{"start":{"line":17,"column":22},"end":{"line":77,"column":1}},"6":{"start":{"line":18,"column":52},"end":{"line":22,"column":4}},"7":{"start":{"line":24,"column":16},"end":{"line":24,"column":30}},"8":{"start":{"line":25,"column":24},"end":{"line":25,"column":47}},"9":{"start":{"line":27,"column":23},"end":{"line":33,"column":null}},"10":{"start":{"line":28,"column":37},"end":{"line":32,"column":null}},"11":{"start":{"line":29,"column":6},"end":{"line":31,"column":7}},"12":{"start":{"line":30,"column":8},"end":{"line":30,"column":29}},"13":{"start":{"line":36,"column":2},"end":{"line":46,"column":45}},"14":{"start":{"line":37,"column":26},"end":{"line":43,"column":6}},"15":{"start":{"line":37,"column":37},"end":{"line":43,"column":6}},"16":{"start":{"line":38,"column":22},"end":{"line":38,"column":44}},"17":{"start":{"line":40,"column":6},"end":{"line":42,"column":7}},"18":{"start":{"line":41,"column":8},"end":{"line":41,"column":47}},"19":{"start":{"line":45,"column":4},"end":{"line":45,"column":20}},"20":{"start":{"line":48,"column":2},"end":{"line":76,"column":4}},"21":{"start":{"line":61,"column":12},"end":{"line":66,"column":null}},"22":{"start":{"line":17,"column":13},"end":{"line":17,"column":22}}},"fnMap":{"0":{"name":"(anonymous_8)","decl":{"start":{"line":17,"column":22},"end":{"line":17,"column":23}},"loc":{"start":{"line":17,"column":76},"end":{"line":77,"column":1}}},"1":{"name":"(anonymous_9)","decl":{"start":{"line":28,"column":4},"end":{"line":28,"column":11}},"loc":{"start":{"line":28,"column":37},"end":{"line":32,"column":null}}},"2":{"name":"(anonymous_10)","decl":{"start":{"line":28,"column":37},"end":{"line":28,"column":null}},"loc":{"start":{"line":28,"column":37},"end":{"line":32,"column":5}}},"3":{"name":"(anonymous_11)","decl":{"start":{"line":36,"column":12},"end":{"line":36,"column":15}},"loc":{"start":{"line":36,"column":17},"end":{"line":46,"column":3}}},"4":{"name":"(anonymous_12)","decl":{"start":{"line":37,"column":26},"end":{"line":37,"column":35}},"loc":{"start":{"line":37,"column":37},"end":{"line":43,"column":6}}},"5":{"name":"(anonymous_13)","decl":{"start":{"line":37,"column":37},"end":{"line":37,"column":null}},"loc":{"start":{"line":37,"column":37},"end":{"line":43,"column":5}}},"6":{"name":"(anonymous_14)","decl":{"start":{"line":60,"column":18},"end":{"line":60,"column":19}},"loc":{"start":{"line":61,"column":12},"end":{"line":66,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":17,"column":35},"end":{"line":17,"column":57}},"type":"default-arg","locations":[{"start":{"line":17,"column":49},"end":{"line":17,"column":57}}]},"1":{"loc":{"start":{"line":29,"column":6},"end":{"line":31,"column":7}},"type":"if","locations":[{"start":{"line":29,"column":6},"end":{"line":31,"column":7}}]},"2":{"loc":{"start":{"line":40,"column":6},"end":{"line":42,"column":7}},"type":"if","locations":[{"start":{"line":40,"column":6},"end":{"line":42,"column":7}}]}},"s":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":52,"7":52,"8":52,"9":52,"10":53,"11":53,"12":11,"13":52,"14":52,"15":52,"16":52,"17":52,"18":52,"19":52,"20":52,"21":52,"22":1},"f":{"0":52,"1":53,"2":53,"3":52,"4":52,"5":52,"6":52},"b":{"0":[52],"1":[11],"2":[52]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\selector\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\selector\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":34}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":54}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":55}},"3":{"start":{"line":6,"column":0},"end":{"line":6,"column":40}},"4":{"start":{"line":16,"column":24},"end":{"line":65,"column":1}},"5":{"start":{"line":17,"column":29},"end":{"line":21,"column":4}},"6":{"start":{"line":23,"column":25},"end":{"line":23,"column":44}},"7":{"start":{"line":25,"column":2},"end":{"line":27,"column":33}},"8":{"start":{"line":26,"column":4},"end":{"line":26,"column":29}},"9":{"start":{"line":29,"column":2},"end":{"line":64,"column":4}},"10":{"start":{"line":34,"column":8},"end":{"line":60,"column":null}},"11":{"start":{"line":16,"column":13},"end":{"line":16,"column":24}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":16,"column":24},"end":{"line":16,"column":25}},"loc":{"start":{"line":16,"column":56},"end":{"line":65,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":25,"column":12},"end":{"line":25,"column":15}},"loc":{"start":{"line":25,"column":17},"end":{"line":27,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":33,"column":14},"end":{"line":33,"column":15}},"loc":{"start":{"line":34,"column":8},"end":{"line":60,"column":null}}}},"branchMap":{},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0},"f":{"0":0,"1":0,"2":0},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\special_gallery\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\special_gallery\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":66}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":52}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":50}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":44}},"4":{"start":{"line":5,"column":0},"end":{"line":5,"column":48}},"5":{"start":{"line":6,"column":0},"end":{"line":6,"column":46}},"6":{"start":{"line":7,"column":0},"end":{"line":7,"column":55}},"7":{"start":{"line":10,"column":0},"end":{"line":10,"column":44}},"8":{"start":{"line":11,"column":0},"end":{"line":11,"column":67}},"9":{"start":{"line":12,"column":0},"end":{"line":12,"column":49}},"10":{"start":{"line":14,"column":0},"end":{"line":14,"column":40}},"11":{"start":{"line":20,"column":30},"end":{"line":102,"column":1}},"12":{"start":{"line":21,"column":40},"end":{"line":21,"column":51}},"13":{"start":{"line":22,"column":38},"end":{"line":23,"column":null}},"14":{"start":{"line":26,"column":40},"end":{"line":38,"column":4}},"15":{"start":{"line":40,"column":2},"end":{"line":42,"column":20}},"16":{"start":{"line":41,"column":4},"end":{"line":41,"column":22}},"17":{"start":{"line":44,"column":25},"end":{"line":44,"column":26}},"18":{"start":{"line":46,"column":27},"end":{"line":48,"column":8}},"19":{"start":{"line":47,"column":4},"end":{"line":47,"column":25}},"20":{"start":{"line":50,"column":27},"end":{"line":52,"column":8}},"21":{"start":{"line":51,"column":4},"end":{"line":51,"column":26}},"22":{"start":{"line":54,"column":25},"end":{"line":58,"column":28}},"23":{"start":{"line":55,"column":26},"end":{"line":55,"column":40}},"24":{"start":{"line":57,"column":4},"end":{"line":57,"column":51}},"25":{"start":{"line":60,"column":21},"end":{"line":62,"column":null}},"26":{"start":{"line":61,"column":10},"end":{"line":61,"column":59}},"27":{"start":{"line":65,"column":28},"end":{"line":71,"column":null}},"28":{"start":{"line":67,"column":6},"end":{"line":69,"column":null}},"29":{"start":{"line":74,"column":2},"end":{"line":76,"column":3}},"30":{"start":{"line":75,"column":4},"end":{"line":75,"column":44}},"31":{"start":{"line":78,"column":2},"end":{"line":101,"column":4}},"32":{"start":{"line":83,"column":10},"end":{"line":84,"column":null}},"33":{"start":{"line":20,"column":13},"end":{"line":20,"column":30}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":20,"column":30},"end":{"line":20,"column":31}},"loc":{"start":{"line":20,"column":71},"end":{"line":102,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":40,"column":12},"end":{"line":40,"column":15}},"loc":{"start":{"line":40,"column":17},"end":{"line":42,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":46,"column":39},"end":{"line":46,"column":40}},"loc":{"start":{"line":46,"column":56},"end":{"line":48,"column":3}}},"3":{"name":"(anonymous_4)","decl":{"start":{"line":50,"column":39},"end":{"line":50,"column":40}},"loc":{"start":{"line":50,"column":62},"end":{"line":52,"column":3}}},"4":{"name":"(anonymous_5)","decl":{"start":{"line":54,"column":33},"end":{"line":54,"column":36}},"loc":{"start":{"line":54,"column":38},"end":{"line":58,"column":3}}},"5":{"name":"(anonymous_6)","decl":{"start":{"line":61,"column":4},"end":{"line":61,"column":7}},"loc":{"start":{"line":61,"column":10},"end":{"line":61,"column":59}}},"6":{"name":"(anonymous_7)","decl":{"start":{"line":66,"column":4},"end":{"line":66,"column":7}},"loc":{"start":{"line":67,"column":6},"end":{"line":69,"column":null}}},"7":{"name":"(anonymous_8)","decl":{"start":{"line":82,"column":31},"end":{"line":82,"column":32}},"loc":{"start":{"line":83,"column":10},"end":{"line":84,"column":null}}}},"branchMap":{"0":{"loc":{"start":{"line":27,"column":14},"end":{"line":29,"column":29}},"type":"cond-expr","locations":[{"start":{"line":28,"column":8},"end":{"line":28,"column":41}},{"start":{"line":29,"column":8},"end":{"line":29,"column":29}}]},"1":{"loc":{"start":{"line":37,"column":7},"end":{"line":37,"column":31}},"type":"binary-expr","locations":[{"start":{"line":37,"column":7},"end":{"line":37,"column":18}},{"start":{"line":37,"column":22},"end":{"line":37,"column":31}}]},"2":{"loc":{"start":{"line":55,"column":26},"end":{"line":55,"column":40}},"type":"binary-expr","locations":[{"start":{"line":55,"column":26},"end":{"line":55,"column":34}},{"start":{"line":55,"column":38},"end":{"line":55,"column":40}}]},"3":{"loc":{"start":{"line":74,"column":2},"end":{"line":76,"column":3}},"type":"if","locations":[{"start":{"line":74,"column":2},"end":{"line":76,"column":3}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0,"17":0,"18":0,"19":0,"20":0,"21":0,"22":0,"23":0,"24":0,"25":0,"26":0,"27":0,"28":0,"29":0,"30":0,"31":0,"32":0,"33":0},"f":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0},"b":{"0":[0,0],"1":[0,0],"2":[0,0],"3":[0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\api.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\api.ts","statementMap":{"0":{"start":{"line":1,"column":13},"end":{"line":1,"column":59}},"1":{"start":{"line":2,"column":13},"end":{"line":2,"column":62}},"2":{"start":{"line":4,"column":0},"end":{"line":4,"column":null}},"3":{"start":{"line":5,"column":2},"end":{"line":5,"column":null}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":4,"column":0},"end":{"line":4,"column":12}},"loc":{"start":{"line":4,"column":24},"end":{"line":6,"column":1}}}},"branchMap":{"0":{"loc":{"start":{"line":4,"column":12},"end":{"line":4,"column":null}},"type":"binary-expr","locations":[{"start":{"line":4,"column":12},"end":{"line":4,"column":24}},{"start":{"line":4,"column":24},"end":{"line":4,"column":null}}]}},"s":{"0":0,"1":0,"2":0,"3":0},"f":{"0":0},"b":{"0":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\paths.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\paths.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":null}},"1":{"start":{"line":2,"column":2},"end":{"line":2,"column":null}},"2":{"start":{"line":3,"column":2},"end":{"line":3,"column":null}},"3":{"start":{"line":4,"column":2},"end":{"line":4,"column":null}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":0},"end":{"line":1,"column":12}},"loc":{"start":{"line":1,"column":20},"end":{"line":5,"column":1}}}},"branchMap":{"0":{"loc":{"start":{"line":1,"column":12},"end":{"line":1,"column":null}},"type":"binary-expr","locations":[{"start":{"line":1,"column":12},"end":{"line":1,"column":20}},{"start":{"line":1,"column":20},"end":{"line":1,"column":null}}]}},"s":{"0":2,"1":2,"2":2,"3":2},"f":{"0":2},"b":{"0":[2,2]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\sort_options.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\sort_options.ts","statementMap":{"0":{"start":{"line":3,"column":13},"end":{"line":9,"column":2}}},"fnMap":{},"branchMap":{},"s":{"0":0},"f":{},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_context.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_context.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":38}},"1":{"start":{"line":10,"column":13},"end":{"line":12,"column":2}}},"fnMap":{},"branchMap":{},"s":{"0":0,"1":0},"f":{},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_provider.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_provider.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":55}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":54}},"2":{"start":{"line":4,"column":33},"end":{"line":52,"column":1}},"3":{"start":{"line":9,"column":36},"end":{"line":13,"column":4}},"4":{"start":{"line":10,"column":27},"end":{"line":10,"column":62}},"5":{"start":{"line":12,"column":4},"end":{"line":12,"column":60}},"6":{"start":{"line":15,"column":22},"end":{"line":23,"column":8}},"7":{"start":{"line":16,"column":4},"end":{"line":22,"column":7}},"8":{"start":{"line":17,"column":31},"end":{"line":17,"column":53}},"9":{"start":{"line":19,"column":6},"end":{"line":19,"column":76}},"10":{"start":{"line":21,"column":6},"end":{"line":21,"column":30}},"11":{"start":{"line":25,"column":25},"end":{"line":35,"column":8}},"12":{"start":{"line":26,"column":4},"end":{"line":34,"column":7}},"13":{"start":{"line":27,"column":31},"end":{"line":28,"column":null}},"14":{"start":{"line":28,"column":24},"end":{"line":28,"column":41}},"15":{"start":{"line":31,"column":6},"end":{"line":31,"column":76}},"16":{"start":{"line":33,"column":6},"end":{"line":33,"column":30}},"17":{"start":{"line":37,"column":16},"end":{"line":44,"column":null}},"18":{"start":{"line":38,"column":11},"end":{"line":43,"column":6}},"19":{"start":{"line":42,"column":34},"end":{"line":42,"column":56}},"20":{"start":{"line":47,"column":2},"end":{"line":51,"column":4}},"21":{"start":{"line":4,"column":13},"end":{"line":4,"column":33}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":4,"column":33},"end":{"line":4,"column":34}},"loc":{"start":{"line":8,"column":5},"end":{"line":52,"column":1}}},"1":{"name":"(anonymous_1)","decl":{"start":{"line":9,"column":55},"end":{"line":9,"column":58}},"loc":{"start":{"line":9,"column":60},"end":{"line":13,"column":3}}},"2":{"name":"(anonymous_2)","decl":{"start":{"line":15,"column":34},"end":{"line":15,"column":35}},"loc":{"start":{"line":15,"column":49},"end":{"line":23,"column":3}}},"3":{"name":"(anonymous_3)","decl":{"start":{"line":16,"column":17},"end":{"line":16,"column":18}},"loc":{"start":{"line":16,"column":35},"end":{"line":22,"column":5}}},"4":{"name":"(anonymous_4)","decl":{"start":{"line":25,"column":37},"end":{"line":25,"column":38}},"loc":{"start":{"line":25,"column":52},"end":{"line":35,"column":3}}},"5":{"name":"(anonymous_5)","decl":{"start":{"line":26,"column":17},"end":{"line":26,"column":18}},"loc":{"start":{"line":26,"column":35},"end":{"line":34,"column":5}}},"6":{"name":"(anonymous_6)","decl":{"start":{"line":28,"column":8},"end":{"line":28,"column":9}},"loc":{"start":{"line":28,"column":24},"end":{"line":28,"column":41}}},"7":{"name":"(anonymous_7)","decl":{"start":{"line":38,"column":4},"end":{"line":38,"column":7}},"loc":{"start":{"line":38,"column":11},"end":{"line":43,"column":6}}},"8":{"name":"(anonymous_8)","decl":{"start":{"line":42,"column":18},"end":{"line":42,"column":19}},"loc":{"start":{"line":42,"column":34},"end":{"line":42,"column":56}}}},"branchMap":{"0":{"loc":{"start":{"line":12,"column":11},"end":{"line":12,"column":59}},"type":"cond-expr","locations":[{"start":{"line":12,"column":28},"end":{"line":12,"column":54}},{"start":{"line":12,"column":57},"end":{"line":12,"column":59}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0,"17":0,"18":0,"19":0,"20":0,"21":0},"f":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0},"b":{"0":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_debounce.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_debounce.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":44}},"1":{"start":{"line":3,"column":27},"end":{"line":17,"column":1}},"2":{"start":{"line":4,"column":44},"end":{"line":4,"column":59}},"3":{"start":{"line":6,"column":2},"end":{"line":14,"column":21}},"4":{"start":{"line":7,"column":20},"end":{"line":9,"column":13}},"5":{"start":{"line":8,"column":6},"end":{"line":8,"column":30}},"6":{"start":{"line":11,"column":4},"end":{"line":13,"column":6}},"7":{"start":{"line":12,"column":6},"end":{"line":12,"column":28}},"8":{"start":{"line":16,"column":2},"end":{"line":16,"column":23}},"9":{"start":{"line":3,"column":13},"end":{"line":3,"column":27}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":3,"column":27},"end":{"line":3,"column":31}},"loc":{"start":{"line":3,"column":58},"end":{"line":17,"column":1}}},"1":{"name":"(anonymous_1)","decl":{"start":{"line":6,"column":12},"end":{"line":6,"column":15}},"loc":{"start":{"line":6,"column":17},"end":{"line":14,"column":3}}},"2":{"name":"(anonymous_2)","decl":{"start":{"line":7,"column":31},"end":{"line":7,"column":34}},"loc":{"start":{"line":7,"column":36},"end":{"line":9,"column":5}}},"3":{"name":"(anonymous_3)","decl":{"start":{"line":11,"column":11},"end":{"line":11,"column":14}},"loc":{"start":{"line":11,"column":16},"end":{"line":13,"column":5}}}},"branchMap":{},"s":{"0":1,"1":1,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":1},"f":{"0":0,"1":0,"2":0,"3":0},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_favorite.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_favorite.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":35}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":63}},"2":{"start":{"line":4,"column":28},"end":{"line":12,"column":1}},"3":{"start":{"line":5,"column":18},"end":{"line":5,"column":46}},"4":{"start":{"line":7,"column":2},"end":{"line":9,"column":3}},"5":{"start":{"line":8,"column":4},"end":{"line":8,"column":76}},"6":{"start":{"line":11,"column":2},"end":{"line":11,"column":17}},"7":{"start":{"line":4,"column":13},"end":{"line":4,"column":28}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":4,"column":28},"end":{"line":4,"column":31}},"loc":{"start":{"line":4,"column":33},"end":{"line":12,"column":1}}}},"branchMap":{"0":{"loc":{"start":{"line":7,"column":2},"end":{"line":9,"column":3}},"type":"if","locations":[{"start":{"line":7,"column":2},"end":{"line":9,"column":3}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0},"f":{"0":0},"b":{"0":[0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_fetch.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_fetch.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":44}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":46}},"2":{"start":{"line":13,"column":24},"end":{"line":65,"column":1}},"3":{"start":{"line":21,"column":26},"end":{"line":21,"column":50}},"4":{"start":{"line":22,"column":36},"end":{"line":22,"column":50}},"5":{"start":{"line":23,"column":28},"end":{"line":24,"column":null}},"6":{"start":{"line":27,"column":2},"end":{"line":62,"column":46}},"7":{"start":{"line":28,"column":22},"end":{"line":59,"column":6}},"8":{"start":{"line":28,"column":33},"end":{"line":59,"column":6}},"9":{"start":{"line":29,"column":6},"end":{"line":29,"column":25}},"10":{"start":{"line":30,"column":6},"end":{"line":58,"column":7}},"11":{"start":{"line":31,"column":20},"end":{"line":31,"column":58}},"12":{"start":{"line":33,"column":8},"end":{"line":33,"column":47}},"13":{"start":{"line":33,"column":15},"end":{"line":33,"column":47}},"14":{"start":{"line":34,"column":8},"end":{"line":34,"column":63}},"15":{"start":{"line":34,"column":17},"end":{"line":34,"column":63}},"16":{"start":{"line":35,"column":8},"end":{"line":35,"column":67}},"17":{"start":{"line":35,"column":18},"end":{"line":35,"column":67}},"18":{"start":{"line":36,"column":8},"end":{"line":36,"column":70}},"19":{"start":{"line":36,"column":19},"end":{"line":36,"column":70}},"20":{"start":{"line":37,"column":8},"end":{"line":37,"column":62}},"21":{"start":{"line":37,"column":20},"end":{"line":37,"column":62}},"22":{"start":{"line":39,"column":25},"end":{"line":39,"column":52}},"23":{"start":{"line":41,"column":8},"end":{"line":48,"column":9}},"24":{"start":{"line":42,"column":32},"end":{"line":43,"column":null}},"25":{"start":{"line":46,"column":10},"end":{"line":46,"column":49}},"26":{"start":{"line":47,"column":10},"end":{"line":47,"column":30}},"27":{"start":{"line":50,"column":23},"end":{"line":50,"column":44}},"28":{"start":{"line":52,"column":8},"end":{"line":52,"column":23}},"29":{"start":{"line":53,"column":8},"end":{"line":53,"column":29}},"30":{"start":{"line":55,"column":8},"end":{"line":55,"column":53}},"31":{"start":{"line":57,"column":8},"end":{"line":57,"column":28}},"32":{"start":{"line":61,"column":4},"end":{"line":61,"column":16}},"33":{"start":{"line":64,"column":2},"end":{"line":64,"column":36}},"34":{"start":{"line":13,"column":13},"end":{"line":13,"column":24}}},"fnMap":{"0":{"name":"(anonymous_7)","decl":{"start":{"line":13,"column":24},"end":{"line":13,"column":28}},"loc":{"start":{"line":20,"column":19},"end":{"line":65,"column":1}}},"1":{"name":"(anonymous_8)","decl":{"start":{"line":27,"column":12},"end":{"line":27,"column":15}},"loc":{"start":{"line":27,"column":17},"end":{"line":62,"column":3}}},"2":{"name":"(anonymous_9)","decl":{"start":{"line":28,"column":22},"end":{"line":28,"column":31}},"loc":{"start":{"line":28,"column":33},"end":{"line":59,"column":6}}},"3":{"name":"(anonymous_10)","decl":{"start":{"line":28,"column":33},"end":{"line":28,"column":null}},"loc":{"start":{"line":28,"column":33},"end":{"line":59,"column":5}}}},"branchMap":{"0":{"loc":{"start":{"line":33,"column":8},"end":{"line":33,"column":47}},"type":"if","locations":[{"start":{"line":33,"column":8},"end":{"line":33,"column":47}}]},"1":{"loc":{"start":{"line":34,"column":8},"end":{"line":34,"column":63}},"type":"if","locations":[{"start":{"line":34,"column":8},"end":{"line":34,"column":63}}]},"2":{"loc":{"start":{"line":35,"column":8},"end":{"line":35,"column":67}},"type":"if","locations":[{"start":{"line":35,"column":8},"end":{"line":35,"column":67}}]},"3":{"loc":{"start":{"line":36,"column":8},"end":{"line":36,"column":70}},"type":"if","locations":[{"start":{"line":36,"column":8},"end":{"line":36,"column":70}}]},"4":{"loc":{"start":{"line":37,"column":8},"end":{"line":37,"column":62}},"type":"if","locations":[{"start":{"line":37,"column":8},"end":{"line":37,"column":62}}]},"5":{"loc":{"start":{"line":41,"column":8},"end":{"line":48,"column":9}},"type":"if","locations":[{"start":{"line":41,"column":8},"end":{"line":48,"column":9}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0,"17":0,"18":0,"19":0,"20":0,"21":0,"22":0,"23":0,"24":0,"25":0,"26":0,"27":0,"28":0,"29":0,"30":0,"31":0,"32":0,"33":0,"34":0},"f":{"0":0,"1":0,"2":0,"3":0},"b":{"0":[0],"1":[0],"2":[0],"3":[0],"4":[0],"5":[0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_random.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_random.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":44}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":46}},"2":{"start":{"line":16,"column":25},"end":{"line":76,"column":1}},"3":{"start":{"line":25,"column":26},"end":{"line":25,"column":50}},"4":{"start":{"line":26,"column":36},"end":{"line":26,"column":50}},"5":{"start":{"line":27,"column":28},"end":{"line":28,"column":null}},"6":{"start":{"line":31,"column":2},"end":{"line":73,"column":57}},"7":{"start":{"line":32,"column":23},"end":{"line":32,"column":44}},"8":{"start":{"line":34,"column":23},"end":{"line":69,"column":6}},"9":{"start":{"line":34,"column":34},"end":{"line":69,"column":6}},"10":{"start":{"line":35,"column":6},"end":{"line":35,"column":25}},"11":{"start":{"line":36,"column":6},"end":{"line":68,"column":7}},"12":{"start":{"line":37,"column":20},"end":{"line":37,"column":58}},"13":{"start":{"line":39,"column":8},"end":{"line":39,"column":71}},"14":{"start":{"line":40,"column":8},"end":{"line":46,"column":9}},"15":{"start":{"line":41,"column":10},"end":{"line":41,"column":47}},"16":{"start":{"line":42,"column":10},"end":{"line":45,"column":12}},"17":{"start":{"line":47,"column":8},"end":{"line":47,"column":47}},"18":{"start":{"line":47,"column":15},"end":{"line":47,"column":47}},"19":{"start":{"line":48,"column":8},"end":{"line":48,"column":63}},"20":{"start":{"line":48,"column":17},"end":{"line":48,"column":63}},"21":{"start":{"line":49,"column":8},"end":{"line":49,"column":67}},"22":{"start":{"line":49,"column":18},"end":{"line":49,"column":67}},"23":{"start":{"line":50,"column":8},"end":{"line":50,"column":70}},"24":{"start":{"line":50,"column":19},"end":{"line":50,"column":70}},"25":{"start":{"line":51,"column":8},"end":{"line":51,"column":62}},"26":{"start":{"line":51,"column":20},"end":{"line":51,"column":62}},"27":{"start":{"line":53,"column":25},"end":{"line":55,"column":10}},"28":{"start":{"line":57,"column":8},"end":{"line":57,"column":69}},"29":{"start":{"line":57,"column":26},"end":{"line":57,"column":69}},"30":{"start":{"line":59,"column":23},"end":{"line":59,"column":44}},"31":{"start":{"line":60,"column":8},"end":{"line":60,"column":29}},"32":{"start":{"line":61,"column":8},"end":{"line":61,"column":23}},"33":{"start":{"line":63,"column":8},"end":{"line":65,"column":9}},"34":{"start":{"line":64,"column":10},"end":{"line":64,"column":55}},"35":{"start":{"line":67,"column":8},"end":{"line":67,"column":28}},"36":{"start":{"line":71,"column":4},"end":{"line":71,"column":17}},"37":{"start":{"line":72,"column":4},"end":{"line":72,"column":36}},"38":{"start":{"line":72,"column":17},"end":{"line":72,"column":35}},"39":{"start":{"line":75,"column":2},"end":{"line":75,"column":36}},"40":{"start":{"line":16,"column":13},"end":{"line":16,"column":25}}},"fnMap":{"0":{"name":"(anonymous_7)","decl":{"start":{"line":16,"column":25},"end":{"line":16,"column":29}},"loc":{"start":{"line":24,"column":20},"end":{"line":76,"column":1}}},"1":{"name":"(anonymous_8)","decl":{"start":{"line":31,"column":12},"end":{"line":31,"column":15}},"loc":{"start":{"line":31,"column":17},"end":{"line":73,"column":3}}},"2":{"name":"(anonymous_9)","decl":{"start":{"line":34,"column":23},"end":{"line":34,"column":32}},"loc":{"start":{"line":34,"column":34},"end":{"line":69,"column":6}}},"3":{"name":"(anonymous_10)","decl":{"start":{"line":34,"column":34},"end":{"line":34,"column":null}},"loc":{"start":{"line":34,"column":34},"end":{"line":69,"column":5}}},"4":{"name":"(anonymous_11)","decl":{"start":{"line":72,"column":11},"end":{"line":72,"column":14}},"loc":{"start":{"line":72,"column":17},"end":{"line":72,"column":35}}}},"branchMap":{"0":{"loc":{"start":{"line":40,"column":8},"end":{"line":46,"column":9}},"type":"if","locations":[{"start":{"line":40,"column":8},"end":{"line":46,"column":9}}]},"1":{"loc":{"start":{"line":47,"column":8},"end":{"line":47,"column":47}},"type":"if","locations":[{"start":{"line":47,"column":8},"end":{"line":47,"column":47}}]},"2":{"loc":{"start":{"line":48,"column":8},"end":{"line":48,"column":63}},"type":"if","locations":[{"start":{"line":48,"column":8},"end":{"line":48,"column":63}}]},"3":{"loc":{"start":{"line":49,"column":8},"end":{"line":49,"column":67}},"type":"if","locations":[{"start":{"line":49,"column":8},"end":{"line":49,"column":67}}]},"4":{"loc":{"start":{"line":50,"column":8},"end":{"line":50,"column":70}},"type":"if","locations":[{"start":{"line":50,"column":8},"end":{"line":50,"column":70}}]},"5":{"loc":{"start":{"line":51,"column":8},"end":{"line":51,"column":62}},"type":"if","locations":[{"start":{"line":51,"column":8},"end":{"line":51,"column":62}}]},"6":{"loc":{"start":{"line":57,"column":8},"end":{"line":57,"column":69}},"type":"if","locations":[{"start":{"line":57,"column":8},"end":{"line":57,"column":69}}]},"7":{"loc":{"start":{"line":63,"column":8},"end":{"line":65,"column":9}},"type":"if","locations":[{"start":{"line":63,"column":8},"end":{"line":65,"column":9}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0,"17":0,"18":0,"19":0,"20":0,"21":0,"22":0,"23":0,"24":0,"25":0,"26":0,"27":0,"28":0,"29":0,"30":0,"31":0,"32":0,"33":0,"34":0,"35":0,"36":0,"37":0,"38":0,"39":0,"40":0},"f":{"0":0,"1":0,"2":0,"3":0,"4":0},"b":{"0":[0],"1":[0],"2":[0],"3":[0],"4":[0],"5":[0],"6":[0],"7":[0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\details\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\details\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":45}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":54}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":61}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":46}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":44}},"5":{"start":{"line":7,"column":0},"end":{"line":7,"column":51}},"6":{"start":{"line":8,"column":0},"end":{"line":8,"column":44}},"7":{"start":{"line":9,"column":0},"end":{"line":9,"column":67}},"8":{"start":{"line":11,"column":0},"end":{"line":11,"column":40}},"9":{"start":{"line":13,"column":23},"end":{"line":102,"column":1}},"10":{"start":{"line":14,"column":22},"end":{"line":14,"column":33}},"11":{"start":{"line":15,"column":39},"end":{"line":29,"column":4}},"12":{"start":{"line":31,"column":54},"end":{"line":31,"column":68}},"13":{"start":{"line":33,"column":30},"end":{"line":39,"column":3}},"14":{"start":{"line":34,"column":4},"end":{"line":38,"column":5}},"15":{"start":{"line":35,"column":6},"end":{"line":35,"column":25}},"16":{"start":{"line":37,"column":6},"end":{"line":37,"column":22}},"17":{"start":{"line":41,"column":2},"end":{"line":43,"column":3}},"18":{"start":{"line":42,"column":4},"end":{"line":42,"column":55}},"19":{"start":{"line":45,"column":19},"end":{"line":47,"column":18}},"20":{"start":{"line":49,"column":2},"end":{"line":101,"column":4}},"21":{"start":{"line":58,"column":14},"end":{"line":58,"column":49}},"22":{"start":{"line":13,"column":13},"end":{"line":13,"column":23}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":13,"column":23},"end":{"line":13,"column":26}},"loc":{"start":{"line":13,"column":28},"end":{"line":102,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":33,"column":30},"end":{"line":33,"column":33}},"loc":{"start":{"line":33,"column":35},"end":{"line":39,"column":3}}},"2":{"name":"(anonymous_3)","decl":{"start":{"line":57,"column":21},"end":{"line":57,"column":22}},"loc":{"start":{"line":57,"column":27},"end":{"line":59,"column":13}}}},"branchMap":{"0":{"loc":{"start":{"line":14,"column":10},"end":{"line":14,"column":17}},"type":"default-arg","locations":[{"start":{"line":14,"column":15},"end":{"line":14,"column":17}}]},"1":{"loc":{"start":{"line":34,"column":4},"end":{"line":38,"column":5}},"type":"if","locations":[{"start":{"line":34,"column":4},"end":{"line":38,"column":5}},{"start":{"line":36,"column":11},"end":{"line":38,"column":5}}]},"2":{"loc":{"start":{"line":41,"column":2},"end":{"line":43,"column":3}},"type":"if","locations":[{"start":{"line":41,"column":2},"end":{"line":43,"column":3}}]},"3":{"loc":{"start":{"line":45,"column":19},"end":{"line":47,"column":18}},"type":"cond-expr","locations":[{"start":{"line":46,"column":6},"end":{"line":46,"column":35}},{"start":{"line":47,"column":6},"end":{"line":47,"column":18}}]},"4":{"loc":{"start":{"line":45,"column":19},"end":{"line":45,"column":36}},"type":"cond-expr","locations":[{"start":{"line":45,"column":26},"end":{"line":45,"column":28}},{"start":{"line":45,"column":19},"end":{"line":45,"column":36}}]},"5":{"loc":{"start":{"line":45,"column":19},"end":{"line":45,"column":28}},"type":"binary-expr","locations":[{"start":{"line":45,"column":19},"end":{"line":45,"column":28}},{"start":{"line":45,"column":19},"end":{"line":45,"column":28}}]},"6":{"loc":{"start":{"line":95,"column":15},"end":{"line":95,"column":62}},"type":"cond-expr","locations":[{"start":{"line":95,"column":42},"end":{"line":95,"column":50}},{"start":{"line":95,"column":53},"end":{"line":95,"column":62}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0,"13":0,"14":0,"15":0,"16":0,"17":0,"18":0,"19":0,"20":0,"21":0,"22":0},"f":{"0":0,"1":0,"2":0},"b":{"0":[0],"1":[0,0],"2":[0],"3":[0,0],"4":[0,0],"5":[0,0],"6":[0,0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\favorites\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\favorites\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":48}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":51}},"2":{"start":{"line":4,"column":0},"end":{"line":4,"column":57}},"3":{"start":{"line":6,"column":0},"end":{"line":6,"column":40}},"4":{"start":{"line":8,"column":25},"end":{"line":30,"column":1}},"5":{"start":{"line":9,"column":24},"end":{"line":9,"column":38}},"6":{"start":{"line":11,"column":2},"end":{"line":29,"column":4}},"7":{"start":{"line":8,"column":13},"end":{"line":8,"column":25}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":8,"column":25},"end":{"line":8,"column":28}},"loc":{"start":{"line":8,"column":30},"end":{"line":30,"column":1}}}},"branchMap":{},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0},"f":{"0":0},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\home\\index.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\home\\index.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":33}},"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":44}},"2":{"start":{"line":3,"column":0},"end":{"line":3,"column":61}},"3":{"start":{"line":4,"column":0},"end":{"line":4,"column":60}},"4":{"start":{"line":6,"column":0},"end":{"line":6,"column":40}},"5":{"start":{"line":8,"column":20},"end":{"line":40,"column":1}},"6":{"start":{"line":9,"column":40},"end":{"line":9,"column":52}},"7":{"start":{"line":11,"column":29},"end":{"line":13,"column":3}},"8":{"start":{"line":12,"column":4},"end":{"line":12,"column":26}},"9":{"start":{"line":15,"column":2},"end":{"line":39,"column":4}},"10":{"start":{"line":8,"column":13},"end":{"line":8,"column":20}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":8,"column":20},"end":{"line":8,"column":23}},"loc":{"start":{"line":8,"column":25},"end":{"line":40,"column":1}}},"1":{"name":"(anonymous_2)","decl":{"start":{"line":11,"column":29},"end":{"line":11,"column":30}},"loc":{"start":{"line":11,"column":47},"end":{"line":13,"column":3}}}},"branchMap":{},"s":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":3,"7":3,"8":1,"9":3,"10":1},"f":{"0":3,"1":1},"b":{}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\api_utils.tsx": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\api_utils.tsx","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":48}},"1":{"start":{"line":3,"column":27},"end":{"line":6,"column":1}},"2":{"start":{"line":4,"column":2},"end":{"line":4,"column":28}},"3":{"start":{"line":4,"column":16},"end":{"line":4,"column":28}},"4":{"start":{"line":5,"column":2},"end":{"line":5,"column":101}},"5":{"start":{"line":3,"column":13},"end":{"line":3,"column":27}},"6":{"start":{"line":8,"column":34},"end":{"line":9,"column":16}},"7":{"start":{"line":9,"column":2},"end":{"line":9,"column":16}},"8":{"start":{"line":8,"column":13},"end":{"line":8,"column":34}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":3,"column":27},"end":{"line":3,"column":28}},"loc":{"start":{"line":3,"column":48},"end":{"line":6,"column":1}}},"1":{"name":"(anonymous_1)","decl":{"start":{"line":8,"column":34},"end":{"line":8,"column":53}},"loc":{"start":{"line":9,"column":2},"end":{"line":9,"column":16}}}},"branchMap":{"0":{"loc":{"start":{"line":4,"column":2},"end":{"line":4,"column":28}},"type":"if","locations":[{"start":{"line":4,"column":2},"end":{"line":4,"column":28}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0},"f":{"0":0,"1":0},"b":{"0":[0]}}
-,"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\sort_utils.ts": {"path":"C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\sort_utils.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":55}},"1":{"start":{"line":5,"column":28},"end":{"line":25,"column":1}},"2":{"start":{"line":9,"column":2},"end":{"line":24,"column":3}},"3":{"start":{"line":11,"column":6},"end":{"line":11,"column":74}},"4":{"start":{"line":11,"column":42},"end":{"line":11,"column":72}},"5":{"start":{"line":13,"column":6},"end":{"line":13,"column":74}},"6":{"start":{"line":13,"column":42},"end":{"line":13,"column":72}},"7":{"start":{"line":15,"column":6},"end":{"line":17,"column":8}},"8":{"start":{"line":16,"column":8},"end":{"line":16,"column":66}},"9":{"start":{"line":19,"column":6},"end":{"line":21,"column":8}},"10":{"start":{"line":20,"column":8},"end":{"line":20,"column":66}},"11":{"start":{"line":23,"column":6},"end":{"line":23,"column":22}},"12":{"start":{"line":5,"column":13},"end":{"line":5,"column":28}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":5,"column":28},"end":{"line":5,"column":null}},"loc":{"start":{"line":8,"column":4},"end":{"line":25,"column":1}}},"1":{"name":"(anonymous_1)","decl":{"start":{"line":11,"column":32},"end":{"line":11,"column":33}},"loc":{"start":{"line":11,"column":42},"end":{"line":11,"column":72}}},"2":{"name":"(anonymous_2)","decl":{"start":{"line":13,"column":32},"end":{"line":13,"column":33}},"loc":{"start":{"line":13,"column":42},"end":{"line":13,"column":72}}},"3":{"name":"(anonymous_3)","decl":{"start":{"line":15,"column":32},"end":{"line":15,"column":33}},"loc":{"start":{"line":16,"column":8},"end":{"line":16,"column":66}}},"4":{"name":"(anonymous_4)","decl":{"start":{"line":19,"column":32},"end":{"line":19,"column":33}},"loc":{"start":{"line":20,"column":8},"end":{"line":20,"column":66}}}},"branchMap":{"0":{"loc":{"start":{"line":9,"column":2},"end":{"line":24,"column":3}},"type":"switch","locations":[{"start":{"line":10,"column":4},"end":{"line":11,"column":74}},{"start":{"line":12,"column":4},"end":{"line":13,"column":74}},{"start":{"line":14,"column":4},"end":{"line":17,"column":8}},{"start":{"line":18,"column":4},"end":{"line":21,"column":8}},{"start":{"line":22,"column":4},"end":{"line":23,"column":22}}]},"1":{"loc":{"start":{"line":16,"column":9},"end":{"line":16,"column":29}},"type":"binary-expr","locations":[{"start":{"line":16,"column":9},"end":{"line":16,"column":23}},{"start":{"line":16,"column":27},"end":{"line":16,"column":29}}]},"2":{"loc":{"start":{"line":16,"column":45},"end":{"line":16,"column":65}},"type":"binary-expr","locations":[{"start":{"line":16,"column":45},"end":{"line":16,"column":59}},{"start":{"line":16,"column":63},"end":{"line":16,"column":65}}]},"3":{"loc":{"start":{"line":20,"column":9},"end":{"line":20,"column":29}},"type":"binary-expr","locations":[{"start":{"line":20,"column":9},"end":{"line":20,"column":23}},{"start":{"line":20,"column":27},"end":{"line":20,"column":29}}]},"4":{"loc":{"start":{"line":20,"column":45},"end":{"line":20,"column":65}},"type":"binary-expr","locations":[{"start":{"line":20,"column":45},"end":{"line":20,"column":59}},{"start":{"line":20,"column":63},"end":{"line":20,"column":65}}]}},"s":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0},"f":{"0":0,"1":0,"2":0,"3":0,"4":0},"b":{"0":[0,0,0,0,0],"1":[0,0],"2":[0,0],"3":[0,0],"4":[0,0]}}
+{
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\App.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\App.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 49 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 45 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 45 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 36 }
+      },
+      "5": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 42 }
+      },
+      "6": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 7, "column": 46 }
+      },
+      "7": {
+        "start": { "line": 8, "column": 0 },
+        "end": { "line": 8, "column": 64 }
+      },
+      "8": {
+        "start": { "line": 10, "column": 19 },
+        "end": { "line": 21, "column": null }
+      },
+      "9": {
+        "start": { "line": 11, "column": 2 },
+        "end": { "line": 20, "column": null }
+      },
+      "10": {
+        "start": { "line": 10, "column": 13 },
+        "end": { "line": 10, "column": 19 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 10, "column": 19 },
+          "end": { "line": 10, "column": 22 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 2 },
+          "end": { "line": 20, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "f": { "0": 0 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\main.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\main.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 35 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 46 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 21 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 49 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 28 }
+      },
+      "5": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 13, "column": 2 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0 },
+    "f": {},
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_button\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_button\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 44 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 57 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 40 }
+      },
+      "3": {
+        "start": { "line": 11, "column": 30 },
+        "end": { "line": 30, "column": 1 }
+      },
+      "4": {
+        "start": { "line": 16, "column": 20 },
+        "end": { "line": 16, "column": 77 }
+      },
+      "5": {
+        "start": { "line": 17, "column": 20 },
+        "end": { "line": 17, "column": 57 }
+      },
+      "6": {
+        "start": { "line": 19, "column": 2 },
+        "end": { "line": 29, "column": 4 }
+      },
+      "7": {
+        "start": { "line": 11, "column": 13 },
+        "end": { "line": 11, "column": 30 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 11, "column": 30 },
+          "end": { "line": 11, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 15, "column": 26 },
+          "end": { "line": 30, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 14, "column": 2 },
+          "end": { "line": 14, "column": 20 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 15 },
+            "end": { "line": 14, "column": 20 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 16, "column": 20 },
+          "end": { "line": 16, "column": 77 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 16, "column": 33 },
+            "end": { "line": 16, "column": 56 }
+          },
+          {
+            "start": { "line": 16, "column": 59 },
+            "end": { "line": 16, "column": 77 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 17, "column": 20 },
+          "end": { "line": 17, "column": 57 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 17, "column": 33 },
+            "end": { "line": 17, "column": 52 }
+          },
+          {
+            "start": { "line": 17, "column": 55 },
+            "end": { "line": 17, "column": 57 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 27, "column": 7 },
+          "end": { "line": 27, "column": 53 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 27, "column": 20 },
+            "end": { "line": 27, "column": 38 }
+          },
+          {
+            "start": { "line": 27, "column": 41 },
+            "end": { "line": 27, "column": 53 }
+          }
+        ]
+      }
+    },
+    "s": { "0": 1, "1": 1, "2": 1, "3": 1, "4": 7, "5": 7, "6": 7, "7": 1 },
+    "f": { "0": 7 },
+    "b": { "0": [5], "1": [1, 6], "2": [1, 6], "3": [1, 6] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_list\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\favorite_list\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 50 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 46 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 44 }
+      },
+      "3": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 47 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 44 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 0 },
+        "end": { "line": 8, "column": 40 }
+      },
+      "6": {
+        "start": { "line": 14, "column": 28 },
+        "end": { "line": 40, "column": 1 }
+      },
+      "7": {
+        "start": { "line": 15, "column": 40 },
+        "end": { "line": 18, "column": 4 }
+      },
+      "8": {
+        "start": { "line": 20, "column": 2 },
+        "end": { "line": 22, "column": 3 }
+      },
+      "9": {
+        "start": { "line": 21, "column": 4 },
+        "end": { "line": 21, "column": 55 }
+      },
+      "10": {
+        "start": { "line": 24, "column": 2 },
+        "end": { "line": 39, "column": 4 }
+      },
+      "11": {
+        "start": { "line": 28, "column": 10 },
+        "end": { "line": 29, "column": null }
+      },
+      "12": {
+        "start": { "line": 14, "column": 13 },
+        "end": { "line": 14, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 14, "column": 28 },
+          "end": { "line": 14, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 14, "column": 65 },
+          "end": { "line": 40, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 27, "column": 21 },
+          "end": { "line": 27, "column": 22 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 10 },
+          "end": { "line": 29, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 20, "column": 2 },
+          "end": { "line": 22, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 20, "column": 2 },
+            "end": { "line": 22, "column": 3 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 26, "column": 7 },
+          "end": { "line": 37, "column": 10 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 26, "column": 7 },
+            "end": { "line": 26, "column": 15 }
+          },
+          {
+            "start": { "line": 27, "column": 8 },
+            "end": { "line": 37, "column": 10 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    },
+    "f": { "0": 0, "1": 0 },
+    "b": { "0": [0], "1": [0, 0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\footer\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\footer\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 55 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 40 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 40 }
+      },
+      "3": {
+        "start": { "line": 6, "column": 22 },
+        "end": { "line": 14, "column": null }
+      },
+      "4": {
+        "start": { "line": 7, "column": 2 },
+        "end": { "line": 13, "column": null }
+      },
+      "5": {
+        "start": { "line": 6, "column": 13 },
+        "end": { "line": 6, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 6, "column": 22 },
+          "end": { "line": 6, "column": 25 }
+        },
+        "loc": {
+          "start": { "line": 7, "column": 2 },
+          "end": { "line": 13, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0 },
+    "f": { "0": 0 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\header\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\header\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 26 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 56 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 40 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 49 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 40 }
+      },
+      "5": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 44 }
+      },
+      "6": {
+        "start": { "line": 8, "column": 0 },
+        "end": { "line": 8, "column": 40 }
+      },
+      "7": {
+        "start": { "line": 10, "column": 22 },
+        "end": { "line": 59, "column": 1 }
+      },
+      "8": {
+        "start": { "line": 11, "column": 17 },
+        "end": { "line": 11, "column": 57 }
+      },
+      "9": {
+        "start": { "line": 12, "column": 38 },
+        "end": { "line": 12, "column": 59 }
+      },
+      "10": {
+        "start": { "line": 14, "column": 26 },
+        "end": { "line": 14, "column": 58 }
+      },
+      "11": {
+        "start": { "line": 14, "column": 32 },
+        "end": { "line": 14, "column": 58 }
+      },
+      "12": {
+        "start": { "line": 16, "column": 2 },
+        "end": { "line": 58, "column": 4 }
+      },
+      "13": {
+        "start": { "line": 38, "column": 20 },
+        "end": { "line": 40, "column": null }
+      },
+      "14": {
+        "start": { "line": 10, "column": 13 },
+        "end": { "line": 10, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 10, "column": 22 },
+          "end": { "line": 10, "column": 25 }
+        },
+        "loc": {
+          "start": { "line": 10, "column": 27 },
+          "end": { "line": 59, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 14, "column": 26 },
+          "end": { "line": 14, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 14, "column": 32 },
+          "end": { "line": 14, "column": 58 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 37, "column": 19 },
+          "end": { "line": 37, "column": 20 }
+        },
+        "loc": {
+          "start": { "line": 38, "column": 20 },
+          "end": { "line": 40, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 24, "column": 45 },
+          "end": { "line": 24, "column": 80 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 24, "column": 58 },
+            "end": { "line": 24, "column": 75 }
+          },
+          {
+            "start": { "line": 24, "column": 78 },
+            "end": { "line": 24, "column": 80 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 32, "column": 40 },
+          "end": { "line": 32, "column": 72 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 32, "column": 53 },
+            "end": { "line": 32, "column": 67 }
+          },
+          {
+            "start": { "line": 32, "column": 70 },
+            "end": { "line": 32, "column": 72 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 34, "column": 13 },
+          "end": { "line": 44, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 34, "column": 13 },
+            "end": { "line": 34, "column": 20 }
+          },
+          {
+            "start": { "line": 35, "column": 14 },
+            "end": { "line": 43, "column": null }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 40, "column": 39 },
+          "end": { "line": 40, "column": 67 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 50 },
+            "end": { "line": 40, "column": 62 }
+          },
+          {
+            "start": { "line": 40, "column": 65 },
+            "end": { "line": 40, "column": 67 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 5,
+      "9": 5,
+      "10": 5,
+      "11": 2,
+      "12": 5,
+      "13": 0,
+      "14": 1
+    },
+    "f": { "0": 5, "1": 2, "2": 0 },
+    "b": { "0": [1, 4], "1": [1, 4], "2": [5, 0], "3": [0, 0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\loader\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\loader\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 40 }
+      },
+      "1": {
+        "start": { "line": 8, "column": 22 },
+        "end": { "line": 22, "column": 1 }
+      },
+      "2": {
+        "start": { "line": 9, "column": 2 },
+        "end": { "line": 9, "column": 30 }
+      },
+      "3": {
+        "start": { "line": 9, "column": 18 },
+        "end": { "line": 9, "column": 30 }
+      },
+      "4": {
+        "start": { "line": 11, "column": 2 },
+        "end": { "line": 21, "column": 4 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 13 },
+        "end": { "line": 8, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 8, "column": 22 },
+          "end": { "line": 8, "column": 23 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 64 },
+          "end": { "line": 22, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 8, "column": 36 },
+          "end": { "line": 8, "column": 45 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 43 },
+            "end": { "line": 8, "column": 45 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 9, "column": 2 },
+          "end": { "line": 9, "column": 30 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 9, "column": 2 },
+            "end": { "line": 9, "column": 30 }
+          }
+        ]
+      }
+    },
+    "s": { "0": 1, "1": 1, "2": 4, "3": 1, "4": 3, "5": 1 },
+    "f": { "0": 4 },
+    "b": { "0": [1], "1": [1] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\logo\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\logo\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 40 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 59 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 59 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 44 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 40 }
+      },
+      "5": {
+        "start": { "line": 12, "column": 20 },
+        "end": { "line": 20, "column": null }
+      },
+      "6": {
+        "start": { "line": 13, "column": 2 },
+        "end": { "line": 19, "column": null }
+      },
+      "7": {
+        "start": { "line": 12, "column": 13 },
+        "end": { "line": 12, "column": 20 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 12, "column": 20 },
+          "end": { "line": 12, "column": 21 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 2 },
+          "end": { "line": 19, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 16, "column": 13 },
+          "end": { "line": 16, "column": 49 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 16, "column": 26 },
+            "end": { "line": 16, "column": 36 }
+          },
+          {
+            "start": { "line": 16, "column": 39 },
+            "end": { "line": 16, "column": 49 }
+          }
+        ]
+      }
+    },
+    "s": { "0": 1, "1": 1, "2": 1, "3": 1, "4": 1, "5": 1, "6": 5, "7": 1 },
+    "f": { "0": 5 },
+    "b": { "0": [0, 5] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\other_work_list\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\other_work_list\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 44 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 50 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 46 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 46 }
+      },
+      "5": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 7, "column": 67 }
+      },
+      "6": {
+        "start": { "line": 9, "column": 0 },
+        "end": { "line": 9, "column": 40 }
+      },
+      "7": {
+        "start": { "line": 11, "column": 29 },
+        "end": { "line": 50, "column": 1 }
+      },
+      "8": {
+        "start": { "line": 12, "column": 38 },
+        "end": { "line": 12, "column": 58 }
+      },
+      "9": {
+        "start": { "line": 14, "column": 40 },
+        "end": { "line": 25, "column": 4 }
+      },
+      "10": {
+        "start": { "line": 27, "column": 2 },
+        "end": { "line": 29, "column": 9 }
+      },
+      "11": {
+        "start": { "line": 28, "column": 4 },
+        "end": { "line": 28, "column": 30 }
+      },
+      "12": {
+        "start": { "line": 31, "column": 2 },
+        "end": { "line": 33, "column": 3 }
+      },
+      "13": {
+        "start": { "line": 32, "column": 4 },
+        "end": { "line": 32, "column": 55 }
+      },
+      "14": {
+        "start": { "line": 35, "column": 2 },
+        "end": { "line": 49, "column": 4 }
+      },
+      "15": {
+        "start": { "line": 38, "column": 8 },
+        "end": { "line": 39, "column": null }
+      },
+      "16": {
+        "start": { "line": 11, "column": 13 },
+        "end": { "line": 11, "column": 29 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 11, "column": 29 },
+          "end": { "line": 11, "column": 32 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 34 },
+          "end": { "line": 50, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 27, "column": 12 },
+          "end": { "line": 27, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 27, "column": 17 },
+          "end": { "line": 29, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 37, "column": 28 },
+          "end": { "line": 37, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 38, "column": 8 },
+          "end": { "line": 39, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 31, "column": 2 },
+          "end": { "line": 33, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 31, "column": 2 },
+            "end": { "line": 33, "column": 3 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 37, "column": 8 },
+          "end": { "line": 37, "column": 22 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 8 },
+            "end": { "line": 37, "column": 16 }
+          },
+          {
+            "start": { "line": 37, "column": 20 },
+            "end": { "line": 37, "column": 22 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0 },
+    "b": { "0": [0], "1": [0, 0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\pagination\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\pagination\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 49 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 47 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 40 }
+      },
+      "3": {
+        "start": { "line": 12, "column": 26 },
+        "end": { "line": 70, "column": 1 }
+      },
+      "4": {
+        "start": { "line": 17, "column": 27 },
+        "end": { "line": 19, "column": 3 }
+      },
+      "5": {
+        "start": { "line": 18, "column": 4 },
+        "end": { "line": 18, "column": 23 }
+      },
+      "6": {
+        "start": { "line": 21, "column": 25 },
+        "end": { "line": 25, "column": 3 }
+      },
+      "7": {
+        "start": { "line": 22, "column": 4 },
+        "end": { "line": 24, "column": 5 }
+      },
+      "8": {
+        "start": { "line": 23, "column": 6 },
+        "end": { "line": 23, "column": 36 }
+      },
+      "9": {
+        "start": { "line": 27, "column": 25 },
+        "end": { "line": 31, "column": 3 }
+      },
+      "10": {
+        "start": { "line": 28, "column": 4 },
+        "end": { "line": 30, "column": 5 }
+      },
+      "11": {
+        "start": { "line": 29, "column": 6 },
+        "end": { "line": 29, "column": 36 }
+      },
+      "12": {
+        "start": { "line": 33, "column": 2 },
+        "end": { "line": 69, "column": 4 }
+      },
+      "13": {
+        "start": { "line": 47, "column": 8 },
+        "end": { "line": 48, "column": null }
+      },
+      "14": {
+        "start": { "line": 50, "column": 25 },
+        "end": { "line": 50, "column": 52 }
+      },
+      "15": {
+        "start": { "line": 12, "column": 13 },
+        "end": { "line": 12, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 12, "column": 26 },
+          "end": { "line": 12, "column": 27 }
+        },
+        "loc": {
+          "start": { "line": 16, "column": 22 },
+          "end": { "line": 70, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 17, "column": 27 },
+          "end": { "line": 17, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 17, "column": 44 },
+          "end": { "line": 19, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 21, "column": 25 },
+          "end": { "line": 21, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 30 },
+          "end": { "line": 25, "column": 3 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 27, "column": 25 },
+          "end": { "line": 27, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 27, "column": 30 },
+          "end": { "line": 31, "column": 3 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 46, "column": 34 },
+          "end": { "line": 46, "column": 35 }
+        },
+        "loc": {
+          "start": { "line": 47, "column": 8 },
+          "end": { "line": 48, "column": null }
+        }
+      },
+      "5": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 50, "column": 19 },
+          "end": { "line": 50, "column": 22 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 25 },
+          "end": { "line": 50, "column": 52 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 22, "column": 4 },
+          "end": { "line": 24, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 4 },
+            "end": { "line": 24, "column": 5 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 28, "column": 4 },
+          "end": { "line": 30, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 28, "column": 4 },
+            "end": { "line": 30, "column": 5 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 35, "column": 7 },
+          "end": { "line": 43, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 35, "column": 7 },
+            "end": { "line": 35, "column": 22 }
+          },
+          {
+            "start": { "line": 36, "column": 8 },
+            "end": { "line": 42, "column": null }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 58, "column": 7 },
+          "end": { "line": 66, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 58, "column": 7 },
+            "end": { "line": 58, "column": 31 }
+          },
+          {
+            "start": { "line": 59, "column": 8 },
+            "end": { "line": 65, "column": null }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 7,
+      "5": 1,
+      "6": 7,
+      "7": 1,
+      "8": 1,
+      "9": 7,
+      "10": 1,
+      "11": 1,
+      "12": 7,
+      "13": 35,
+      "14": 1,
+      "15": 1
+    },
+    "f": { "0": 7, "1": 1, "2": 1, "3": 1, "4": 35, "5": 1 },
+    "b": { "0": [1], "1": [1], "2": [7, 6], "3": [7, 6] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\picture\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\picture\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 33 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 50 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 61 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 44 }
+      },
+      "5": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 51 }
+      },
+      "6": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 7, "column": 40 }
+      },
+      "7": {
+        "start": { "line": 18, "column": 27 },
+        "end": { "line": 96, "column": 1 }
+      },
+      "8": {
+        "start": { "line": 26, "column": 54 },
+        "end": { "line": 26, "column": 68 }
+      },
+      "9": {
+        "start": { "line": 27, "column": 34 },
+        "end": { "line": 27, "column": 49 }
+      },
+      "10": {
+        "start": { "line": 29, "column": 15 },
+        "end": { "line": 29, "column": 69 }
+      },
+      "11": {
+        "start": { "line": 30, "column": 29 },
+        "end": { "line": 30, "column": 71 }
+      },
+      "12": {
+        "start": { "line": 32, "column": 27 },
+        "end": { "line": 34, "column": 3 }
+      },
+      "13": {
+        "start": { "line": 33, "column": 4 },
+        "end": { "line": 33, "column": 23 }
+      },
+      "14": {
+        "start": { "line": 36, "column": 30 },
+        "end": { "line": 38, "column": 3 }
+      },
+      "15": {
+        "start": { "line": 37, "column": 4 },
+        "end": { "line": 37, "column": 65 }
+      },
+      "16": {
+        "start": { "line": 40, "column": 2 },
+        "end": { "line": 95, "column": 4 }
+      },
+      "17": {
+        "start": { "line": 50, "column": 30 },
+        "end": { "line": 50, "column": 47 }
+      },
+      "18": {
+        "start": { "line": 69, "column": 32 },
+        "end": { "line": 69, "column": 49 }
+      },
+      "19": {
+        "start": { "line": 18, "column": 13 },
+        "end": { "line": 18, "column": 27 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 18, "column": 27 },
+          "end": { "line": 18, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 25, "column": 23 },
+          "end": { "line": 96, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 32, "column": 27 },
+          "end": { "line": 32, "column": 30 }
+        },
+        "loc": {
+          "start": { "line": 32, "column": 32 },
+          "end": { "line": 34, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 36, "column": 30 },
+          "end": { "line": 36, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 36, "column": 35 },
+          "end": { "line": 38, "column": 3 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 50, "column": 24 },
+          "end": { "line": 50, "column": 27 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 30 },
+          "end": { "line": 50, "column": 47 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 69, "column": 26 },
+          "end": { "line": 69, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 69, "column": 32 },
+          "end": { "line": 69, "column": 49 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 24, "column": 2 },
+          "end": { "line": 24, "column": 17 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 24, "column": 12 },
+            "end": { "line": 24, "column": 17 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 30, "column": 29 },
+          "end": { "line": 30, "column": 71 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 30, "column": 37 },
+            "end": { "line": 30, "column": 66 }
+          },
+          {
+            "start": { "line": 30, "column": 69 },
+            "end": { "line": 30, "column": 71 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 37, "column": 11 },
+          "end": { "line": 37, "column": 64 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 28 },
+            "end": { "line": 37, "column": 46 }
+          },
+          {
+            "start": { "line": 37, "column": 49 },
+            "end": { "line": 37, "column": 64 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 41, "column": 20 },
+          "end": { "line": 41, "column": 77 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 41, "column": 42 },
+            "end": { "line": 41, "column": 58 }
+          },
+          {
+            "start": { "line": 41, "column": 61 },
+            "end": { "line": 41, "column": 77 }
+          }
+        ]
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 42, "column": 7 },
+          "end": { "line": 57, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 42, "column": 7 },
+            "end": { "line": 42, "column": 26 }
+          },
+          {
+            "start": { "line": 43, "column": 8 },
+            "end": { "line": 56, "column": null }
+          }
+        ]
+      },
+      "5": {
+        "loc": {
+          "start": { "line": 45, "column": 13 },
+          "end": { "line": 53, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 45, "column": 13 },
+            "end": { "line": 45, "column": 31 }
+          },
+          {
+            "start": { "line": 46, "column": 14 },
+            "end": { "line": 52, "column": null }
+          }
+        ]
+      },
+      "6": {
+        "loc": {
+          "start": { "line": 52, "column": 34 },
+          "end": { "line": 52, "column": 61 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 52, "column": 45 },
+            "end": { "line": 52, "column": 52 }
+          },
+          {
+            "start": { "line": 52, "column": 55 },
+            "end": { "line": 52, "column": 61 }
+          }
+        ]
+      },
+      "7": {
+        "loc": {
+          "start": { "line": 55, "column": 13 },
+          "end": { "line": 55, "column": 42 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 55, "column": 13 },
+            "end": { "line": 55, "column": 22 }
+          },
+          {
+            "start": { "line": 55, "column": 26 },
+            "end": { "line": 55, "column": 42 }
+          }
+        ]
+      },
+      "8": {
+        "loc": {
+          "start": { "line": 61, "column": 9 },
+          "end": { "line": 76, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 61, "column": 9 },
+            "end": { "line": 61, "column": 28 }
+          },
+          {
+            "start": { "line": 62, "column": 10 },
+            "end": { "line": 75, "column": null }
+          }
+        ]
+      },
+      "9": {
+        "loc": {
+          "start": { "line": 64, "column": 15 },
+          "end": { "line": 72, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 64, "column": 15 },
+            "end": { "line": 64, "column": 33 }
+          },
+          {
+            "start": { "line": 65, "column": 16 },
+            "end": { "line": 71, "column": null }
+          }
+        ]
+      },
+      "10": {
+        "loc": {
+          "start": { "line": 71, "column": 36 },
+          "end": { "line": 71, "column": 63 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 71, "column": 47 },
+            "end": { "line": 71, "column": 54 }
+          },
+          {
+            "start": { "line": 71, "column": 57 },
+            "end": { "line": 71, "column": 63 }
+          }
+        ]
+      },
+      "11": {
+        "loc": {
+          "start": { "line": 74, "column": 15 },
+          "end": { "line": 74, "column": 44 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 74, "column": 15 },
+            "end": { "line": 74, "column": 24 }
+          },
+          {
+            "start": { "line": 74, "column": 28 },
+            "end": { "line": 74, "column": 44 }
+          }
+        ]
+      },
+      "12": {
+        "loc": {
+          "start": { "line": 83, "column": 13 },
+          "end": { "line": 83, "column": 70 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 83, "column": 13 },
+            "end": { "line": 83, "column": 19 }
+          },
+          {
+            "start": { "line": 83, "column": 23 },
+            "end": { "line": 83, "column": 70 }
+          }
+        ]
+      },
+      "13": {
+        "loc": {
+          "start": { "line": 85, "column": 44 },
+          "end": { "line": 85, "column": 75 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 85, "column": 55 },
+            "end": { "line": 85, "column": 63 }
+          },
+          {
+            "start": { "line": 85, "column": 66 },
+            "end": { "line": 85, "column": 75 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 7,
+      "9": 7,
+      "10": 7,
+      "11": 7,
+      "12": 7,
+      "13": 1,
+      "14": 7,
+      "15": 2,
+      "16": 7,
+      "17": 0,
+      "18": 0,
+      "19": 1
+    },
+    "f": { "0": 7, "1": 1, "2": 2, "3": 0, "4": 0 },
+    "b": {
+      "0": [0],
+      "1": [7, 0],
+      "2": [1, 1],
+      "3": [0, 7],
+      "4": [7, 7],
+      "5": [7, 7],
+      "6": [0, 7],
+      "7": [7, 7],
+      "8": [7, 0],
+      "9": [0, 0],
+      "10": [0, 0],
+      "11": [0, 0],
+      "12": [7, 7],
+      "13": [6, 1]
+    }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\search\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\search\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 47 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 44 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 50 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 41 }
+      },
+      "5": {
+        "start": { "line": 17, "column": 22 },
+        "end": { "line": 77, "column": 1 }
+      },
+      "6": {
+        "start": { "line": 18, "column": 52 },
+        "end": { "line": 22, "column": 4 }
+      },
+      "7": {
+        "start": { "line": 24, "column": 16 },
+        "end": { "line": 24, "column": 30 }
+      },
+      "8": {
+        "start": { "line": 25, "column": 24 },
+        "end": { "line": 25, "column": 47 }
+      },
+      "9": {
+        "start": { "line": 27, "column": 23 },
+        "end": { "line": 33, "column": null }
+      },
+      "10": {
+        "start": { "line": 28, "column": 37 },
+        "end": { "line": 32, "column": null }
+      },
+      "11": {
+        "start": { "line": 29, "column": 6 },
+        "end": { "line": 31, "column": 7 }
+      },
+      "12": {
+        "start": { "line": 30, "column": 8 },
+        "end": { "line": 30, "column": 29 }
+      },
+      "13": {
+        "start": { "line": 36, "column": 2 },
+        "end": { "line": 46, "column": 45 }
+      },
+      "14": {
+        "start": { "line": 37, "column": 26 },
+        "end": { "line": 43, "column": 6 }
+      },
+      "15": {
+        "start": { "line": 37, "column": 37 },
+        "end": { "line": 43, "column": 6 }
+      },
+      "16": {
+        "start": { "line": 38, "column": 22 },
+        "end": { "line": 38, "column": 44 }
+      },
+      "17": {
+        "start": { "line": 40, "column": 6 },
+        "end": { "line": 42, "column": 7 }
+      },
+      "18": {
+        "start": { "line": 41, "column": 8 },
+        "end": { "line": 41, "column": 47 }
+      },
+      "19": {
+        "start": { "line": 45, "column": 4 },
+        "end": { "line": 45, "column": 20 }
+      },
+      "20": {
+        "start": { "line": 48, "column": 2 },
+        "end": { "line": 76, "column": 4 }
+      },
+      "21": {
+        "start": { "line": 61, "column": 12 },
+        "end": { "line": 66, "column": null }
+      },
+      "22": {
+        "start": { "line": 17, "column": 13 },
+        "end": { "line": 17, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 17, "column": 22 },
+          "end": { "line": 17, "column": 23 }
+        },
+        "loc": {
+          "start": { "line": 17, "column": 76 },
+          "end": { "line": 77, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 28, "column": 4 },
+          "end": { "line": 28, "column": 11 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 37 },
+          "end": { "line": 32, "column": null }
+        }
+      },
+      "2": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 28, "column": 37 },
+          "end": { "line": 28, "column": null }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 37 },
+          "end": { "line": 32, "column": 5 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_11)",
+        "decl": {
+          "start": { "line": 36, "column": 12 },
+          "end": { "line": 36, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 36, "column": 17 },
+          "end": { "line": 46, "column": 3 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_12)",
+        "decl": {
+          "start": { "line": 37, "column": 26 },
+          "end": { "line": 37, "column": 35 }
+        },
+        "loc": {
+          "start": { "line": 37, "column": 37 },
+          "end": { "line": 43, "column": 6 }
+        }
+      },
+      "5": {
+        "name": "(anonymous_13)",
+        "decl": {
+          "start": { "line": 37, "column": 37 },
+          "end": { "line": 37, "column": null }
+        },
+        "loc": {
+          "start": { "line": 37, "column": 37 },
+          "end": { "line": 43, "column": 5 }
+        }
+      },
+      "6": {
+        "name": "(anonymous_14)",
+        "decl": {
+          "start": { "line": 60, "column": 18 },
+          "end": { "line": 60, "column": 19 }
+        },
+        "loc": {
+          "start": { "line": 61, "column": 12 },
+          "end": { "line": 66, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 17, "column": 35 },
+          "end": { "line": 17, "column": 57 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 17, "column": 49 },
+            "end": { "line": 17, "column": 57 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 29, "column": 6 },
+          "end": { "line": 31, "column": 7 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 29, "column": 6 },
+            "end": { "line": 31, "column": 7 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 40, "column": 6 },
+          "end": { "line": 42, "column": 7 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 6 },
+            "end": { "line": 42, "column": 7 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 52,
+      "7": 52,
+      "8": 52,
+      "9": 52,
+      "10": 53,
+      "11": 53,
+      "12": 11,
+      "13": 52,
+      "14": 52,
+      "15": 52,
+      "16": 52,
+      "17": 52,
+      "18": 52,
+      "19": 52,
+      "20": 52,
+      "21": 52,
+      "22": 1
+    },
+    "f": { "0": 52, "1": 53, "2": 53, "3": 52, "4": 52, "5": 52, "6": 52 },
+    "b": { "0": [52], "1": [11], "2": [52] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\selector\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\selector\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 34 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 55 }
+      },
+      "3": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 40 }
+      },
+      "4": {
+        "start": { "line": 16, "column": 24 },
+        "end": { "line": 65, "column": 1 }
+      },
+      "5": {
+        "start": { "line": 17, "column": 29 },
+        "end": { "line": 21, "column": 4 }
+      },
+      "6": {
+        "start": { "line": 23, "column": 25 },
+        "end": { "line": 23, "column": 44 }
+      },
+      "7": {
+        "start": { "line": 25, "column": 2 },
+        "end": { "line": 27, "column": 33 }
+      },
+      "8": {
+        "start": { "line": 26, "column": 4 },
+        "end": { "line": 26, "column": 29 }
+      },
+      "9": {
+        "start": { "line": 29, "column": 2 },
+        "end": { "line": 64, "column": 4 }
+      },
+      "10": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 60, "column": null }
+      },
+      "11": {
+        "start": { "line": 16, "column": 13 },
+        "end": { "line": 16, "column": 24 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 16, "column": 24 },
+          "end": { "line": 16, "column": 25 }
+        },
+        "loc": {
+          "start": { "line": 16, "column": 56 },
+          "end": { "line": 65, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 25, "column": 12 },
+          "end": { "line": 25, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 25, "column": 17 },
+          "end": { "line": 27, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 33, "column": 14 },
+          "end": { "line": 33, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 8 },
+          "end": { "line": 60, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\special_gallery\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\components\\special_gallery\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 66 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 52 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 50 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 44 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 48 }
+      },
+      "5": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 46 }
+      },
+      "6": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 7, "column": 55 }
+      },
+      "7": {
+        "start": { "line": 10, "column": 0 },
+        "end": { "line": 10, "column": 44 }
+      },
+      "8": {
+        "start": { "line": 11, "column": 0 },
+        "end": { "line": 11, "column": 67 }
+      },
+      "9": {
+        "start": { "line": 12, "column": 0 },
+        "end": { "line": 12, "column": 49 }
+      },
+      "10": {
+        "start": { "line": 14, "column": 0 },
+        "end": { "line": 14, "column": 40 }
+      },
+      "11": {
+        "start": { "line": 20, "column": 30 },
+        "end": { "line": 102, "column": 1 }
+      },
+      "12": {
+        "start": { "line": 21, "column": 40 },
+        "end": { "line": 21, "column": 51 }
+      },
+      "13": {
+        "start": { "line": 22, "column": 38 },
+        "end": { "line": 23, "column": null }
+      },
+      "14": {
+        "start": { "line": 26, "column": 40 },
+        "end": { "line": 38, "column": 4 }
+      },
+      "15": {
+        "start": { "line": 40, "column": 2 },
+        "end": { "line": 42, "column": 20 }
+      },
+      "16": {
+        "start": { "line": 41, "column": 4 },
+        "end": { "line": 41, "column": 22 }
+      },
+      "17": {
+        "start": { "line": 44, "column": 25 },
+        "end": { "line": 44, "column": 26 }
+      },
+      "18": {
+        "start": { "line": 46, "column": 27 },
+        "end": { "line": 48, "column": 8 }
+      },
+      "19": {
+        "start": { "line": 47, "column": 4 },
+        "end": { "line": 47, "column": 25 }
+      },
+      "20": {
+        "start": { "line": 50, "column": 27 },
+        "end": { "line": 52, "column": 8 }
+      },
+      "21": {
+        "start": { "line": 51, "column": 4 },
+        "end": { "line": 51, "column": 26 }
+      },
+      "22": {
+        "start": { "line": 54, "column": 25 },
+        "end": { "line": 58, "column": 28 }
+      },
+      "23": {
+        "start": { "line": 55, "column": 26 },
+        "end": { "line": 55, "column": 40 }
+      },
+      "24": {
+        "start": { "line": 57, "column": 4 },
+        "end": { "line": 57, "column": 51 }
+      },
+      "25": {
+        "start": { "line": 60, "column": 21 },
+        "end": { "line": 62, "column": null }
+      },
+      "26": {
+        "start": { "line": 61, "column": 10 },
+        "end": { "line": 61, "column": 59 }
+      },
+      "27": {
+        "start": { "line": 65, "column": 28 },
+        "end": { "line": 71, "column": null }
+      },
+      "28": {
+        "start": { "line": 67, "column": 6 },
+        "end": { "line": 69, "column": null }
+      },
+      "29": {
+        "start": { "line": 74, "column": 2 },
+        "end": { "line": 76, "column": 3 }
+      },
+      "30": {
+        "start": { "line": 75, "column": 4 },
+        "end": { "line": 75, "column": 44 }
+      },
+      "31": {
+        "start": { "line": 78, "column": 2 },
+        "end": { "line": 101, "column": 4 }
+      },
+      "32": {
+        "start": { "line": 83, "column": 10 },
+        "end": { "line": 84, "column": null }
+      },
+      "33": {
+        "start": { "line": 20, "column": 13 },
+        "end": { "line": 20, "column": 30 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 20, "column": 30 },
+          "end": { "line": 20, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 71 },
+          "end": { "line": 102, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 40, "column": 12 },
+          "end": { "line": 40, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 40, "column": 17 },
+          "end": { "line": 42, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 46, "column": 39 },
+          "end": { "line": 46, "column": 40 }
+        },
+        "loc": {
+          "start": { "line": 46, "column": 56 },
+          "end": { "line": 48, "column": 3 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 50, "column": 39 },
+          "end": { "line": 50, "column": 40 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 62 },
+          "end": { "line": 52, "column": 3 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 54, "column": 33 },
+          "end": { "line": 54, "column": 36 }
+        },
+        "loc": {
+          "start": { "line": 54, "column": 38 },
+          "end": { "line": 58, "column": 3 }
+        }
+      },
+      "5": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 61, "column": 4 },
+          "end": { "line": 61, "column": 7 }
+        },
+        "loc": {
+          "start": { "line": 61, "column": 10 },
+          "end": { "line": 61, "column": 59 }
+        }
+      },
+      "6": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 66, "column": 4 },
+          "end": { "line": 66, "column": 7 }
+        },
+        "loc": {
+          "start": { "line": 67, "column": 6 },
+          "end": { "line": 69, "column": null }
+        }
+      },
+      "7": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 82, "column": 31 },
+          "end": { "line": 82, "column": 32 }
+        },
+        "loc": {
+          "start": { "line": 83, "column": 10 },
+          "end": { "line": 84, "column": null }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 27, "column": 14 },
+          "end": { "line": 29, "column": 29 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 28, "column": 8 },
+            "end": { "line": 28, "column": 41 }
+          },
+          {
+            "start": { "line": 29, "column": 8 },
+            "end": { "line": 29, "column": 29 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 37, "column": 7 },
+          "end": { "line": 37, "column": 31 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 7 },
+            "end": { "line": 37, "column": 18 }
+          },
+          {
+            "start": { "line": 37, "column": 22 },
+            "end": { "line": 37, "column": 31 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 55, "column": 26 },
+          "end": { "line": 55, "column": 40 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 55, "column": 26 },
+            "end": { "line": 55, "column": 34 }
+          },
+          {
+            "start": { "line": 55, "column": 38 },
+            "end": { "line": 55, "column": 40 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 74, "column": 2 },
+          "end": { "line": 76, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 74, "column": 2 },
+            "end": { "line": 76, "column": 3 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0 },
+    "b": { "0": [0, 0], "1": [0, 0], "2": [0, 0], "3": [0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\api.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\api.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 13 },
+        "end": { "line": 1, "column": 59 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 13 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": null }
+      },
+      "3": {
+        "start": { "line": 5, "column": 2 },
+        "end": { "line": 5, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 4, "column": 0 },
+          "end": { "line": 4, "column": 12 }
+        },
+        "loc": {
+          "start": { "line": 4, "column": 24 },
+          "end": { "line": 6, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 4, "column": 12 },
+          "end": { "line": 4, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 4, "column": 12 },
+            "end": { "line": 4, "column": 24 }
+          },
+          {
+            "start": { "line": 4, "column": 24 },
+            "end": { "line": 4, "column": null }
+          }
+        ]
+      }
+    },
+    "s": { "0": 0, "1": 0, "2": 0, "3": 0 },
+    "f": { "0": 0 },
+    "b": { "0": [0, 0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\paths.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\paths.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": null }
+      },
+      "1": {
+        "start": { "line": 2, "column": 2 },
+        "end": { "line": 2, "column": null }
+      },
+      "2": {
+        "start": { "line": 3, "column": 2 },
+        "end": { "line": 3, "column": null }
+      },
+      "3": {
+        "start": { "line": 4, "column": 2 },
+        "end": { "line": 4, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 1, "column": 0 },
+          "end": { "line": 1, "column": 12 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 20 },
+          "end": { "line": 5, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 1, "column": 12 },
+          "end": { "line": 1, "column": null }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 1, "column": 12 },
+            "end": { "line": 1, "column": 20 }
+          },
+          {
+            "start": { "line": 1, "column": 20 },
+            "end": { "line": 1, "column": null }
+          }
+        ]
+      }
+    },
+    "s": { "0": 2, "1": 2, "2": 2, "3": 2 },
+    "f": { "0": 2 },
+    "b": { "0": [2, 2] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\sort_options.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\constants\\sort_options.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 3, "column": 13 },
+        "end": { "line": 9, "column": 2 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 0 },
+    "f": {},
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_context.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_context.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 38 }
+      },
+      "1": {
+        "start": { "line": 10, "column": 13 },
+        "end": { "line": 12, "column": 2 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 0, "1": 0 },
+    "f": {},
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_provider.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\context\\favorite_provider.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 55 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 33 },
+        "end": { "line": 52, "column": 1 }
+      },
+      "3": {
+        "start": { "line": 9, "column": 36 },
+        "end": { "line": 13, "column": 4 }
+      },
+      "4": {
+        "start": { "line": 10, "column": 27 },
+        "end": { "line": 10, "column": 62 }
+      },
+      "5": {
+        "start": { "line": 12, "column": 4 },
+        "end": { "line": 12, "column": 60 }
+      },
+      "6": {
+        "start": { "line": 15, "column": 22 },
+        "end": { "line": 23, "column": 8 }
+      },
+      "7": {
+        "start": { "line": 16, "column": 4 },
+        "end": { "line": 22, "column": 7 }
+      },
+      "8": {
+        "start": { "line": 17, "column": 31 },
+        "end": { "line": 17, "column": 53 }
+      },
+      "9": {
+        "start": { "line": 19, "column": 6 },
+        "end": { "line": 19, "column": 76 }
+      },
+      "10": {
+        "start": { "line": 21, "column": 6 },
+        "end": { "line": 21, "column": 30 }
+      },
+      "11": {
+        "start": { "line": 25, "column": 25 },
+        "end": { "line": 35, "column": 8 }
+      },
+      "12": {
+        "start": { "line": 26, "column": 4 },
+        "end": { "line": 34, "column": 7 }
+      },
+      "13": {
+        "start": { "line": 27, "column": 31 },
+        "end": { "line": 28, "column": null }
+      },
+      "14": {
+        "start": { "line": 28, "column": 24 },
+        "end": { "line": 28, "column": 41 }
+      },
+      "15": {
+        "start": { "line": 31, "column": 6 },
+        "end": { "line": 31, "column": 76 }
+      },
+      "16": {
+        "start": { "line": 33, "column": 6 },
+        "end": { "line": 33, "column": 30 }
+      },
+      "17": {
+        "start": { "line": 37, "column": 16 },
+        "end": { "line": 44, "column": null }
+      },
+      "18": {
+        "start": { "line": 38, "column": 11 },
+        "end": { "line": 43, "column": 6 }
+      },
+      "19": {
+        "start": { "line": 42, "column": 34 },
+        "end": { "line": 42, "column": 56 }
+      },
+      "20": {
+        "start": { "line": 47, "column": 2 },
+        "end": { "line": 51, "column": 4 }
+      },
+      "21": {
+        "start": { "line": 4, "column": 13 },
+        "end": { "line": 4, "column": 33 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 4, "column": 33 },
+          "end": { "line": 4, "column": 34 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 5 },
+          "end": { "line": 52, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 9, "column": 55 },
+          "end": { "line": 9, "column": 58 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 60 },
+          "end": { "line": 13, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 15, "column": 34 },
+          "end": { "line": 15, "column": 35 }
+        },
+        "loc": {
+          "start": { "line": 15, "column": 49 },
+          "end": { "line": 23, "column": 3 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 16, "column": 17 },
+          "end": { "line": 16, "column": 18 }
+        },
+        "loc": {
+          "start": { "line": 16, "column": 35 },
+          "end": { "line": 22, "column": 5 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 25, "column": 37 },
+          "end": { "line": 25, "column": 38 }
+        },
+        "loc": {
+          "start": { "line": 25, "column": 52 },
+          "end": { "line": 35, "column": 3 }
+        }
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 26, "column": 17 },
+          "end": { "line": 26, "column": 18 }
+        },
+        "loc": {
+          "start": { "line": 26, "column": 35 },
+          "end": { "line": 34, "column": 5 }
+        }
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 28, "column": 8 },
+          "end": { "line": 28, "column": 9 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 24 },
+          "end": { "line": 28, "column": 41 }
+        }
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 38, "column": 4 },
+          "end": { "line": 38, "column": 7 }
+        },
+        "loc": {
+          "start": { "line": 38, "column": 11 },
+          "end": { "line": 43, "column": 6 }
+        }
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 42, "column": 18 },
+          "end": { "line": 42, "column": 19 }
+        },
+        "loc": {
+          "start": { "line": 42, "column": 34 },
+          "end": { "line": 42, "column": 56 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 12, "column": 11 },
+          "end": { "line": 12, "column": 59 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 12, "column": 28 },
+            "end": { "line": 12, "column": 54 }
+          },
+          {
+            "start": { "line": 12, "column": 57 },
+            "end": { "line": 12, "column": 59 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0
+    },
+    "f": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    },
+    "b": { "0": [0, 0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_debounce.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_debounce.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 44 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 27 },
+        "end": { "line": 17, "column": 1 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 44 },
+        "end": { "line": 4, "column": 59 }
+      },
+      "3": {
+        "start": { "line": 6, "column": 2 },
+        "end": { "line": 14, "column": 21 }
+      },
+      "4": {
+        "start": { "line": 7, "column": 20 },
+        "end": { "line": 9, "column": 13 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 6 },
+        "end": { "line": 8, "column": 30 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 4 },
+        "end": { "line": 13, "column": 6 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 6 },
+        "end": { "line": 12, "column": 28 }
+      },
+      "8": {
+        "start": { "line": 16, "column": 2 },
+        "end": { "line": 16, "column": 23 }
+      },
+      "9": {
+        "start": { "line": 3, "column": 13 },
+        "end": { "line": 3, "column": 27 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 3, "column": 27 },
+          "end": { "line": 3, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 58 },
+          "end": { "line": 17, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 6, "column": 12 },
+          "end": { "line": 6, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 17 },
+          "end": { "line": 14, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 7, "column": 31 },
+          "end": { "line": 7, "column": 34 }
+        },
+        "loc": {
+          "start": { "line": 7, "column": 36 },
+          "end": { "line": 9, "column": 5 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 11, "column": 11 },
+          "end": { "line": 11, "column": 14 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 16 },
+          "end": { "line": 13, "column": 5 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 1
+    },
+    "f": { "0": 0, "1": 0, "2": 0, "3": 0 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_favorite.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_favorite.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 35 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 63 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 28 },
+        "end": { "line": 12, "column": 1 }
+      },
+      "3": {
+        "start": { "line": 5, "column": 18 },
+        "end": { "line": 5, "column": 46 }
+      },
+      "4": {
+        "start": { "line": 7, "column": 2 },
+        "end": { "line": 9, "column": 3 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 4 },
+        "end": { "line": 8, "column": 76 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 2 },
+        "end": { "line": 11, "column": 17 }
+      },
+      "7": {
+        "start": { "line": 4, "column": 13 },
+        "end": { "line": 4, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 4, "column": 28 },
+          "end": { "line": 4, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 4, "column": 33 },
+          "end": { "line": 12, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 7, "column": 2 },
+          "end": { "line": 9, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 7, "column": 2 },
+            "end": { "line": 9, "column": 3 }
+          }
+        ]
+      }
+    },
+    "s": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0 },
+    "f": { "0": 0 },
+    "b": { "0": [0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_fetch.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_fetch.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 44 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 46 }
+      },
+      "2": {
+        "start": { "line": 13, "column": 24 },
+        "end": { "line": 65, "column": 1 }
+      },
+      "3": {
+        "start": { "line": 21, "column": 26 },
+        "end": { "line": 21, "column": 50 }
+      },
+      "4": {
+        "start": { "line": 22, "column": 36 },
+        "end": { "line": 22, "column": 50 }
+      },
+      "5": {
+        "start": { "line": 23, "column": 28 },
+        "end": { "line": 24, "column": null }
+      },
+      "6": {
+        "start": { "line": 27, "column": 2 },
+        "end": { "line": 62, "column": 46 }
+      },
+      "7": {
+        "start": { "line": 28, "column": 22 },
+        "end": { "line": 59, "column": 6 }
+      },
+      "8": {
+        "start": { "line": 28, "column": 33 },
+        "end": { "line": 59, "column": 6 }
+      },
+      "9": {
+        "start": { "line": 29, "column": 6 },
+        "end": { "line": 29, "column": 25 }
+      },
+      "10": {
+        "start": { "line": 30, "column": 6 },
+        "end": { "line": 58, "column": 7 }
+      },
+      "11": {
+        "start": { "line": 31, "column": 20 },
+        "end": { "line": 31, "column": 58 }
+      },
+      "12": {
+        "start": { "line": 33, "column": 8 },
+        "end": { "line": 33, "column": 47 }
+      },
+      "13": {
+        "start": { "line": 33, "column": 15 },
+        "end": { "line": 33, "column": 47 }
+      },
+      "14": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 63 }
+      },
+      "15": {
+        "start": { "line": 34, "column": 17 },
+        "end": { "line": 34, "column": 63 }
+      },
+      "16": {
+        "start": { "line": 35, "column": 8 },
+        "end": { "line": 35, "column": 67 }
+      },
+      "17": {
+        "start": { "line": 35, "column": 18 },
+        "end": { "line": 35, "column": 67 }
+      },
+      "18": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 36, "column": 70 }
+      },
+      "19": {
+        "start": { "line": 36, "column": 19 },
+        "end": { "line": 36, "column": 70 }
+      },
+      "20": {
+        "start": { "line": 37, "column": 8 },
+        "end": { "line": 37, "column": 62 }
+      },
+      "21": {
+        "start": { "line": 37, "column": 20 },
+        "end": { "line": 37, "column": 62 }
+      },
+      "22": {
+        "start": { "line": 39, "column": 25 },
+        "end": { "line": 39, "column": 52 }
+      },
+      "23": {
+        "start": { "line": 41, "column": 8 },
+        "end": { "line": 48, "column": 9 }
+      },
+      "24": {
+        "start": { "line": 42, "column": 32 },
+        "end": { "line": 43, "column": null }
+      },
+      "25": {
+        "start": { "line": 46, "column": 10 },
+        "end": { "line": 46, "column": 49 }
+      },
+      "26": {
+        "start": { "line": 47, "column": 10 },
+        "end": { "line": 47, "column": 30 }
+      },
+      "27": {
+        "start": { "line": 50, "column": 23 },
+        "end": { "line": 50, "column": 44 }
+      },
+      "28": {
+        "start": { "line": 52, "column": 8 },
+        "end": { "line": 52, "column": 23 }
+      },
+      "29": {
+        "start": { "line": 53, "column": 8 },
+        "end": { "line": 53, "column": 29 }
+      },
+      "30": {
+        "start": { "line": 55, "column": 8 },
+        "end": { "line": 55, "column": 53 }
+      },
+      "31": {
+        "start": { "line": 57, "column": 8 },
+        "end": { "line": 57, "column": 28 }
+      },
+      "32": {
+        "start": { "line": 61, "column": 4 },
+        "end": { "line": 61, "column": 16 }
+      },
+      "33": {
+        "start": { "line": 64, "column": 2 },
+        "end": { "line": 64, "column": 36 }
+      },
+      "34": {
+        "start": { "line": 13, "column": 13 },
+        "end": { "line": 13, "column": 24 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 13, "column": 24 },
+          "end": { "line": 13, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 19 },
+          "end": { "line": 65, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 27, "column": 12 },
+          "end": { "line": 27, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 27, "column": 17 },
+          "end": { "line": 62, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 28, "column": 22 },
+          "end": { "line": 28, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 33 },
+          "end": { "line": 59, "column": 6 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 28, "column": 33 },
+          "end": { "line": 28, "column": null }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 33 },
+          "end": { "line": 59, "column": 5 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 33, "column": 8 },
+          "end": { "line": 33, "column": 47 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 33, "column": 8 },
+            "end": { "line": 33, "column": 47 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 34, "column": 8 },
+          "end": { "line": 34, "column": 63 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 34, "column": 8 },
+            "end": { "line": 34, "column": 63 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 35, "column": 8 },
+          "end": { "line": 35, "column": 67 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 35, "column": 8 },
+            "end": { "line": 35, "column": 67 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 36, "column": 8 },
+          "end": { "line": 36, "column": 70 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 36, "column": 8 },
+            "end": { "line": 36, "column": 70 }
+          }
+        ]
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 37, "column": 8 },
+          "end": { "line": 37, "column": 62 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 8 },
+            "end": { "line": 37, "column": 62 }
+          }
+        ]
+      },
+      "5": {
+        "loc": {
+          "start": { "line": 41, "column": 8 },
+          "end": { "line": 48, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 41, "column": 8 },
+            "end": { "line": 48, "column": 9 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "34": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0, "3": 0 },
+    "b": { "0": [0], "1": [0], "2": [0], "3": [0], "4": [0], "5": [0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_random.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\hooks\\use_random.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 44 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 46 }
+      },
+      "2": {
+        "start": { "line": 16, "column": 25 },
+        "end": { "line": 76, "column": 1 }
+      },
+      "3": {
+        "start": { "line": 25, "column": 26 },
+        "end": { "line": 25, "column": 50 }
+      },
+      "4": {
+        "start": { "line": 26, "column": 36 },
+        "end": { "line": 26, "column": 50 }
+      },
+      "5": {
+        "start": { "line": 27, "column": 28 },
+        "end": { "line": 28, "column": null }
+      },
+      "6": {
+        "start": { "line": 31, "column": 2 },
+        "end": { "line": 73, "column": 57 }
+      },
+      "7": {
+        "start": { "line": 32, "column": 23 },
+        "end": { "line": 32, "column": 44 }
+      },
+      "8": {
+        "start": { "line": 34, "column": 23 },
+        "end": { "line": 69, "column": 6 }
+      },
+      "9": {
+        "start": { "line": 34, "column": 34 },
+        "end": { "line": 69, "column": 6 }
+      },
+      "10": {
+        "start": { "line": 35, "column": 6 },
+        "end": { "line": 35, "column": 25 }
+      },
+      "11": {
+        "start": { "line": 36, "column": 6 },
+        "end": { "line": 68, "column": 7 }
+      },
+      "12": {
+        "start": { "line": 37, "column": 20 },
+        "end": { "line": 37, "column": 58 }
+      },
+      "13": {
+        "start": { "line": 39, "column": 8 },
+        "end": { "line": 39, "column": 71 }
+      },
+      "14": {
+        "start": { "line": 40, "column": 8 },
+        "end": { "line": 46, "column": 9 }
+      },
+      "15": {
+        "start": { "line": 41, "column": 10 },
+        "end": { "line": 41, "column": 47 }
+      },
+      "16": {
+        "start": { "line": 42, "column": 10 },
+        "end": { "line": 45, "column": 12 }
+      },
+      "17": {
+        "start": { "line": 47, "column": 8 },
+        "end": { "line": 47, "column": 47 }
+      },
+      "18": {
+        "start": { "line": 47, "column": 15 },
+        "end": { "line": 47, "column": 47 }
+      },
+      "19": {
+        "start": { "line": 48, "column": 8 },
+        "end": { "line": 48, "column": 63 }
+      },
+      "20": {
+        "start": { "line": 48, "column": 17 },
+        "end": { "line": 48, "column": 63 }
+      },
+      "21": {
+        "start": { "line": 49, "column": 8 },
+        "end": { "line": 49, "column": 67 }
+      },
+      "22": {
+        "start": { "line": 49, "column": 18 },
+        "end": { "line": 49, "column": 67 }
+      },
+      "23": {
+        "start": { "line": 50, "column": 8 },
+        "end": { "line": 50, "column": 70 }
+      },
+      "24": {
+        "start": { "line": 50, "column": 19 },
+        "end": { "line": 50, "column": 70 }
+      },
+      "25": {
+        "start": { "line": 51, "column": 8 },
+        "end": { "line": 51, "column": 62 }
+      },
+      "26": {
+        "start": { "line": 51, "column": 20 },
+        "end": { "line": 51, "column": 62 }
+      },
+      "27": {
+        "start": { "line": 53, "column": 25 },
+        "end": { "line": 55, "column": 10 }
+      },
+      "28": {
+        "start": { "line": 57, "column": 8 },
+        "end": { "line": 57, "column": 69 }
+      },
+      "29": {
+        "start": { "line": 57, "column": 26 },
+        "end": { "line": 57, "column": 69 }
+      },
+      "30": {
+        "start": { "line": 59, "column": 23 },
+        "end": { "line": 59, "column": 44 }
+      },
+      "31": {
+        "start": { "line": 60, "column": 8 },
+        "end": { "line": 60, "column": 29 }
+      },
+      "32": {
+        "start": { "line": 61, "column": 8 },
+        "end": { "line": 61, "column": 23 }
+      },
+      "33": {
+        "start": { "line": 63, "column": 8 },
+        "end": { "line": 65, "column": 9 }
+      },
+      "34": {
+        "start": { "line": 64, "column": 10 },
+        "end": { "line": 64, "column": 55 }
+      },
+      "35": {
+        "start": { "line": 67, "column": 8 },
+        "end": { "line": 67, "column": 28 }
+      },
+      "36": {
+        "start": { "line": 71, "column": 4 },
+        "end": { "line": 71, "column": 17 }
+      },
+      "37": {
+        "start": { "line": 72, "column": 4 },
+        "end": { "line": 72, "column": 36 }
+      },
+      "38": {
+        "start": { "line": 72, "column": 17 },
+        "end": { "line": 72, "column": 35 }
+      },
+      "39": {
+        "start": { "line": 75, "column": 2 },
+        "end": { "line": 75, "column": 36 }
+      },
+      "40": {
+        "start": { "line": 16, "column": 13 },
+        "end": { "line": 16, "column": 25 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 16, "column": 25 },
+          "end": { "line": 16, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 24, "column": 20 },
+          "end": { "line": 76, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 31, "column": 12 },
+          "end": { "line": 31, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 31, "column": 17 },
+          "end": { "line": 73, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 34, "column": 23 },
+          "end": { "line": 34, "column": 32 }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 34 },
+          "end": { "line": 69, "column": 6 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 34, "column": 34 },
+          "end": { "line": 34, "column": null }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 34 },
+          "end": { "line": 69, "column": 5 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_11)",
+        "decl": {
+          "start": { "line": 72, "column": 11 },
+          "end": { "line": 72, "column": 14 }
+        },
+        "loc": {
+          "start": { "line": 72, "column": 17 },
+          "end": { "line": 72, "column": 35 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 40, "column": 8 },
+          "end": { "line": 46, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 8 },
+            "end": { "line": 46, "column": 9 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 47, "column": 8 },
+          "end": { "line": 47, "column": 47 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 47, "column": 8 },
+            "end": { "line": 47, "column": 47 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 48, "column": 8 },
+          "end": { "line": 48, "column": 63 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 48, "column": 8 },
+            "end": { "line": 48, "column": 63 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 49, "column": 8 },
+          "end": { "line": 49, "column": 67 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 49, "column": 8 },
+            "end": { "line": 49, "column": 67 }
+          }
+        ]
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 50, "column": 8 },
+          "end": { "line": 50, "column": 70 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 50, "column": 8 },
+            "end": { "line": 50, "column": 70 }
+          }
+        ]
+      },
+      "5": {
+        "loc": {
+          "start": { "line": 51, "column": 8 },
+          "end": { "line": 51, "column": 62 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 51, "column": 8 },
+            "end": { "line": 51, "column": 62 }
+          }
+        ]
+      },
+      "6": {
+        "loc": {
+          "start": { "line": 57, "column": 8 },
+          "end": { "line": 57, "column": 69 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 57, "column": 8 },
+            "end": { "line": 57, "column": 69 }
+          }
+        ]
+      },
+      "7": {
+        "loc": {
+          "start": { "line": 63, "column": 8 },
+          "end": { "line": 65, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 63, "column": 8 },
+            "end": { "line": 65, "column": 9 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "34": 0,
+      "35": 0,
+      "36": 0,
+      "37": 0,
+      "38": 0,
+      "39": 0,
+      "40": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0 },
+    "b": {
+      "0": [0],
+      "1": [0],
+      "2": [0],
+      "3": [0],
+      "4": [0],
+      "5": [0],
+      "6": [0],
+      "7": [0]
+    }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\details\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\details\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 45 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 61 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 46 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 44 }
+      },
+      "5": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 7, "column": 51 }
+      },
+      "6": {
+        "start": { "line": 8, "column": 0 },
+        "end": { "line": 8, "column": 44 }
+      },
+      "7": {
+        "start": { "line": 9, "column": 0 },
+        "end": { "line": 9, "column": 67 }
+      },
+      "8": {
+        "start": { "line": 11, "column": 0 },
+        "end": { "line": 11, "column": 40 }
+      },
+      "9": {
+        "start": { "line": 13, "column": 23 },
+        "end": { "line": 102, "column": 1 }
+      },
+      "10": {
+        "start": { "line": 14, "column": 22 },
+        "end": { "line": 14, "column": 33 }
+      },
+      "11": {
+        "start": { "line": 15, "column": 39 },
+        "end": { "line": 29, "column": 4 }
+      },
+      "12": {
+        "start": { "line": 31, "column": 54 },
+        "end": { "line": 31, "column": 68 }
+      },
+      "13": {
+        "start": { "line": 33, "column": 30 },
+        "end": { "line": 39, "column": 3 }
+      },
+      "14": {
+        "start": { "line": 34, "column": 4 },
+        "end": { "line": 38, "column": 5 }
+      },
+      "15": {
+        "start": { "line": 35, "column": 6 },
+        "end": { "line": 35, "column": 25 }
+      },
+      "16": {
+        "start": { "line": 37, "column": 6 },
+        "end": { "line": 37, "column": 22 }
+      },
+      "17": {
+        "start": { "line": 41, "column": 2 },
+        "end": { "line": 43, "column": 3 }
+      },
+      "18": {
+        "start": { "line": 42, "column": 4 },
+        "end": { "line": 42, "column": 55 }
+      },
+      "19": {
+        "start": { "line": 45, "column": 19 },
+        "end": { "line": 47, "column": 18 }
+      },
+      "20": {
+        "start": { "line": 49, "column": 2 },
+        "end": { "line": 101, "column": 4 }
+      },
+      "21": {
+        "start": { "line": 58, "column": 14 },
+        "end": { "line": 58, "column": 49 }
+      },
+      "22": {
+        "start": { "line": 13, "column": 13 },
+        "end": { "line": 13, "column": 23 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 13, "column": 23 },
+          "end": { "line": 13, "column": 26 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 28 },
+          "end": { "line": 102, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 33, "column": 30 },
+          "end": { "line": 33, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 33, "column": 35 },
+          "end": { "line": 39, "column": 3 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 57, "column": 21 },
+          "end": { "line": 57, "column": 22 }
+        },
+        "loc": {
+          "start": { "line": 57, "column": 27 },
+          "end": { "line": 59, "column": 13 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 14, "column": 10 },
+          "end": { "line": 14, "column": 17 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 15 },
+            "end": { "line": 14, "column": 17 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 34, "column": 4 },
+          "end": { "line": 38, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 34, "column": 4 },
+            "end": { "line": 38, "column": 5 }
+          },
+          {
+            "start": { "line": 36, "column": 11 },
+            "end": { "line": 38, "column": 5 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 41, "column": 2 },
+          "end": { "line": 43, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 41, "column": 2 },
+            "end": { "line": 43, "column": 3 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 45, "column": 19 },
+          "end": { "line": 47, "column": 18 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 46, "column": 6 },
+            "end": { "line": 46, "column": 35 }
+          },
+          {
+            "start": { "line": 47, "column": 6 },
+            "end": { "line": 47, "column": 18 }
+          }
+        ]
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 45, "column": 19 },
+          "end": { "line": 45, "column": 36 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 45, "column": 26 },
+            "end": { "line": 45, "column": 28 }
+          },
+          {
+            "start": { "line": 45, "column": 19 },
+            "end": { "line": 45, "column": 36 }
+          }
+        ]
+      },
+      "5": {
+        "loc": {
+          "start": { "line": 45, "column": 19 },
+          "end": { "line": 45, "column": 28 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 45, "column": 19 },
+            "end": { "line": 45, "column": 28 }
+          },
+          {
+            "start": { "line": 45, "column": 19 },
+            "end": { "line": 45, "column": 28 }
+          }
+        ]
+      },
+      "6": {
+        "loc": {
+          "start": { "line": 95, "column": 15 },
+          "end": { "line": 95, "column": 62 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 95, "column": 42 },
+            "end": { "line": 95, "column": 50 }
+          },
+          {
+            "start": { "line": 95, "column": 53 },
+            "end": { "line": 95, "column": 62 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0 },
+    "b": {
+      "0": [0],
+      "1": [0, 0],
+      "2": [0],
+      "3": [0, 0],
+      "4": [0, 0],
+      "5": [0, 0],
+      "6": [0, 0]
+    }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\favorites\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\favorites\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 48 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 51 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 57 }
+      },
+      "3": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 40 }
+      },
+      "4": {
+        "start": { "line": 8, "column": 25 },
+        "end": { "line": 30, "column": 1 }
+      },
+      "5": {
+        "start": { "line": 9, "column": 24 },
+        "end": { "line": 9, "column": 38 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 2 },
+        "end": { "line": 29, "column": 4 }
+      },
+      "7": {
+        "start": { "line": 8, "column": 13 },
+        "end": { "line": 8, "column": 25 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 8, "column": 25 },
+          "end": { "line": 8, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 30 },
+          "end": { "line": 30, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0 },
+    "f": { "0": 0 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\home\\index.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\pages\\home\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 33 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 61 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 60 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 0 },
+        "end": { "line": 6, "column": 40 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 20 },
+        "end": { "line": 40, "column": 1 }
+      },
+      "6": {
+        "start": { "line": 9, "column": 40 },
+        "end": { "line": 9, "column": 52 }
+      },
+      "7": {
+        "start": { "line": 11, "column": 29 },
+        "end": { "line": 13, "column": 3 }
+      },
+      "8": {
+        "start": { "line": 12, "column": 4 },
+        "end": { "line": 12, "column": 26 }
+      },
+      "9": {
+        "start": { "line": 15, "column": 2 },
+        "end": { "line": 39, "column": 4 }
+      },
+      "10": {
+        "start": { "line": 8, "column": 13 },
+        "end": { "line": 8, "column": 20 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 8, "column": 20 },
+          "end": { "line": 8, "column": 23 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 25 },
+          "end": { "line": 40, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 11, "column": 29 },
+          "end": { "line": 11, "column": 30 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 47 },
+          "end": { "line": 13, "column": 3 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 3,
+      "7": 3,
+      "8": 1,
+      "9": 3,
+      "10": 1
+    },
+    "f": { "0": 3, "1": 1 },
+    "b": {}
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\api_utils.tsx": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\api_utils.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 48 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 27 },
+        "end": { "line": 6, "column": 1 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 2 },
+        "end": { "line": 4, "column": 28 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 16 },
+        "end": { "line": 4, "column": 28 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 2 },
+        "end": { "line": 5, "column": 101 }
+      },
+      "5": {
+        "start": { "line": 3, "column": 13 },
+        "end": { "line": 3, "column": 27 }
+      },
+      "6": {
+        "start": { "line": 8, "column": 34 },
+        "end": { "line": 9, "column": 16 }
+      },
+      "7": {
+        "start": { "line": 9, "column": 2 },
+        "end": { "line": 9, "column": 16 }
+      },
+      "8": {
+        "start": { "line": 8, "column": 13 },
+        "end": { "line": 8, "column": 34 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 3, "column": 27 },
+          "end": { "line": 3, "column": 28 }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 48 },
+          "end": { "line": 6, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 8, "column": 34 },
+          "end": { "line": 8, "column": 53 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 2 },
+          "end": { "line": 9, "column": 16 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 4, "column": 2 },
+          "end": { "line": 4, "column": 28 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 4, "column": 2 },
+            "end": { "line": 4, "column": 28 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    },
+    "f": { "0": 0, "1": 0 },
+    "b": { "0": [0] }
+  },
+  "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\sort_utils.ts": {
+    "path": "C:\\Desktop\\Учеба\\art-museum\\modsen-art-museum\\src\\utils\\sort_utils.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 55 }
+      },
+      "1": {
+        "start": { "line": 5, "column": 28 },
+        "end": { "line": 25, "column": 1 }
+      },
+      "2": {
+        "start": { "line": 9, "column": 2 },
+        "end": { "line": 24, "column": 3 }
+      },
+      "3": {
+        "start": { "line": 11, "column": 6 },
+        "end": { "line": 11, "column": 74 }
+      },
+      "4": {
+        "start": { "line": 11, "column": 42 },
+        "end": { "line": 11, "column": 72 }
+      },
+      "5": {
+        "start": { "line": 13, "column": 6 },
+        "end": { "line": 13, "column": 74 }
+      },
+      "6": {
+        "start": { "line": 13, "column": 42 },
+        "end": { "line": 13, "column": 72 }
+      },
+      "7": {
+        "start": { "line": 15, "column": 6 },
+        "end": { "line": 17, "column": 8 }
+      },
+      "8": {
+        "start": { "line": 16, "column": 8 },
+        "end": { "line": 16, "column": 66 }
+      },
+      "9": {
+        "start": { "line": 19, "column": 6 },
+        "end": { "line": 21, "column": 8 }
+      },
+      "10": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 66 }
+      },
+      "11": {
+        "start": { "line": 23, "column": 6 },
+        "end": { "line": 23, "column": 22 }
+      },
+      "12": {
+        "start": { "line": 5, "column": 13 },
+        "end": { "line": 5, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 5, "column": 28 },
+          "end": { "line": 5, "column": null }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 4 },
+          "end": { "line": 25, "column": 1 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 11, "column": 32 },
+          "end": { "line": 11, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 42 },
+          "end": { "line": 11, "column": 72 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 13, "column": 32 },
+          "end": { "line": 13, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 42 },
+          "end": { "line": 13, "column": 72 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 15, "column": 32 },
+          "end": { "line": 15, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 16, "column": 8 },
+          "end": { "line": 16, "column": 66 }
+        }
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 19, "column": 32 },
+          "end": { "line": 19, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 8 },
+          "end": { "line": 20, "column": 66 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 9, "column": 2 },
+          "end": { "line": 24, "column": 3 }
+        },
+        "type": "switch",
+        "locations": [
+          {
+            "start": { "line": 10, "column": 4 },
+            "end": { "line": 11, "column": 74 }
+          },
+          {
+            "start": { "line": 12, "column": 4 },
+            "end": { "line": 13, "column": 74 }
+          },
+          {
+            "start": { "line": 14, "column": 4 },
+            "end": { "line": 17, "column": 8 }
+          },
+          {
+            "start": { "line": 18, "column": 4 },
+            "end": { "line": 21, "column": 8 }
+          },
+          {
+            "start": { "line": 22, "column": 4 },
+            "end": { "line": 23, "column": 22 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 16, "column": 9 },
+          "end": { "line": 16, "column": 29 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 16, "column": 9 },
+            "end": { "line": 16, "column": 23 }
+          },
+          {
+            "start": { "line": 16, "column": 27 },
+            "end": { "line": 16, "column": 29 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 16, "column": 45 },
+          "end": { "line": 16, "column": 65 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 16, "column": 45 },
+            "end": { "line": 16, "column": 59 }
+          },
+          {
+            "start": { "line": 16, "column": 63 },
+            "end": { "line": 16, "column": 65 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 20, "column": 9 },
+          "end": { "line": 20, "column": 29 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 20, "column": 9 },
+            "end": { "line": 20, "column": 23 }
+          },
+          {
+            "start": { "line": 20, "column": 27 },
+            "end": { "line": 20, "column": 29 }
+          }
+        ]
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 20, "column": 45 },
+          "end": { "line": 20, "column": 65 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 20, "column": 45 },
+            "end": { "line": 20, "column": 59 }
+          },
+          {
+            "start": { "line": 20, "column": 63 },
+            "end": { "line": 20, "column": 65 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    },
+    "f": { "0": 0, "1": 0, "2": 0, "3": 0, "4": 0 },
+    "b": {
+      "0": [0, 0, 0, 0, 0],
+      "1": [0, 0],
+      "2": [0, 0],
+      "3": [0, 0],
+      "4": [0, 0]
+    }
+  }
 }

@@ -35,7 +35,7 @@ describe("PictureCard component", () => {
           variant="big"
           {...props}
         />
-      </BrowserRouter>
+      </BrowserRouter>,
     );
   };
 
