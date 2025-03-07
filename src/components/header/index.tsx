@@ -11,7 +11,7 @@ export const Header = () => {
   const isHome = useLocation().pathname === UrlPaths.HOME;
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
-  const switchMenuState = () => setIsMenuOpen(!isMenuOpen); // Функция для переключения меню
+  const switchMenuState = () => setIsMenuOpen(!isMenuOpen);
 
   return (
     <header className={style.header}>
