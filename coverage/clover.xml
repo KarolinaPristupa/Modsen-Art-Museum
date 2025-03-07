@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1741350952688" clover="3.2.0">
-  <project timestamp="1741350952688" name="All files">
-    <metrics statements="342" coveredstatements="99" conditionals="115" coveredconditionals="42" methods="80" coveredmethods="24" elements="537" coveredelements="165" complexity="0" loc="342" ncloc="342" packages="20" files="28" classes="28"/>
+<coverage generated="1741351283720" clover="3.2.0">
+  <project timestamp="1741351283720" name="All files">
+    <metrics statements="342" coveredstatements="111" conditionals="115" coveredconditionals="42" methods="80" coveredmethods="25" elements="537" coveredelements="178" complexity="0" loc="342" ncloc="342" packages="20" files="28" classes="28"/>
     <package name="src">
       <metrics statements="16" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <file name="App.tsx" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\App.tsx">
@@ -284,11 +284,11 @@
       </file>
     </package>
     <package name="src.context">
-      <metrics statements="23" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <metrics statements="23" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="0"/>
       <file name="favorite_context.tsx" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\context\favorite_context.tsx">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
       <file name="favorite_provider.tsx" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\context\favorite_provider.tsx">
         <metrics statements="21" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="0"/>
@@ -316,7 +316,7 @@
       </file>
     </package>
     <package name="src.hooks">
-      <metrics statements="76" coveredstatements="2" conditionals="15" coveredconditionals="0" methods="14" coveredmethods="0"/>
+      <metrics statements="76" coveredstatements="5" conditionals="15" coveredconditionals="0" methods="14" coveredmethods="0"/>
       <file name="use_debounce.ts" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\hooks\use_debounce.ts">
         <metrics statements="9" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
@@ -330,10 +330,10 @@
         <line num="16" count="0" type="stmt"/>
       </file>
       <file name="use_favorite.ts" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\hooks\use_favorite.ts">
-        <metrics statements="7" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="0" type="stmt"/>
-        <line num="2" count="0" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
+        <metrics statements="7" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
         <line num="5" count="0" type="stmt"/>
         <line num="7" count="0" type="cond" truecount="0" falsecount="1"/>
         <line num="8" count="0" type="stmt"/>
@@ -435,16 +435,16 @@
       </file>
     </package>
     <package name="src.pages.favorites">
-      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Desktop\Учеба\art-museum\modsen-art-museum\src\pages\favorites\index.tsx">
-        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="0" type="stmt"/>
-        <line num="2" count="0" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.pages.home">
